@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}" data-bs-theme="dark">
+
+<head>
+    {{ partial "head" . }}
+    {{ block "head" . }}{{ end }}
+</head>
+
+<body>
+    {{ block "main" . }}{{ end }}
+</body>
+
+</html>

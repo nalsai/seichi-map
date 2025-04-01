@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsukihime: Arc de Triomphe",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_11.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-1-the-arc-de-triomphe-in-paris"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2962159786384517,
+          48.87249578294641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsukihime: Fontana di Trevi",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_09.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-2-the-trevi-fountain-in-rome"
+      },
+      "geometry": {
+        "coordinates": [
+          12.483353057571593,
+          41.900864482907025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsukihime: Château de Remaisnil",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_48a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations",
+        "description": "(Private property)"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2428306071676616,
+          50.19907482370245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsukihime: Restaurant Maximiliaan van Oostenrijk",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_12.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2243376064755163,
+          51.20167039009655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsukihime: Quedlinburg",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_13.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations",
+        "description": "Exact location unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          11.141535805170275,
+          51.78922595747151
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

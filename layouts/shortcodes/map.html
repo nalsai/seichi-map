@@ -1,0 +1,294 @@
+<div id="map-container">
+  <div id="leafletmap" style="height: 80vh;"></div>
+  <div class="m-4">
+      <h4>Locations</h4>
+      <div id="location-list" class="mb-3"></div>
+      <div>
+        <button id="show-all" class="btn btn-sm btn-outline-primary me-2">Show All</button>
+        <button id="hide-all" class="btn btn-sm btn-outline-secondary">Hide All</button>
+      </div>
+  </div>
+  <div id="error"></div>
+  
+  <!-- Full-screen image modal -->
+  <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+    <div class="modal-dialog" style="max-width: 99vw;">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="imageModalLabel">Location Image</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body text-center">
+          <img id="fullscreen-image" src="" alt="Full-screen view" style="max-width: 100%; max-height: 90vh;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Initialize the map with a default view that will be adjusted later
+    const map = L.map('leafletmap').setView([35.6735, 139.7565], 16);
+    
+    // Add OpenStreetMap tile layer
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Object to store marker references by ID
+    const markers = {};
+    // Object to store feature data by ID
+    const features = {};
+    // GeoJSON layer for the map
+    let geoJSONLayer;
+    
+    // Function to load and display GeoJSON data
+    function loadLocations() {
+      fetch('locations.geojson')
+        .then(response => response.json())
+        .then(data => {
+          // Store features by ID for later reference
+          data.features.forEach(feature => {
+            if (!feature.id) {
+              // Generate an ID if one doesn't exist
+              feature.id = feature.properties.name.replace(/\s+/g, '-').toLowerCase();
+            }
+            features[feature.id] = feature;
+          });
+          
+          // Create the GeoJSON layer
+          geoJSONLayer = L.geoJSON(data, {
+            pointToLayer: function(feature, latlng) {
+              const marker = L.marker(latlng);
+              markers[feature.id] = marker;
+              return marker;
+            },
+            onEachFeature: function(feature, layer) {
+              // Create popup with image, description, and toggle button
+              const popupContent = document.createElement('div');
+              popupContent.className = 'text-center';
+              popupContent.style.width = '200px';
+              
+              // Feature name
+              const nameElement = document.createElement('div');
+              nameElement.className = 'fw-bold mb-2';
+              nameElement.textContent = feature.properties.name;
+              popupContent.appendChild(nameElement);
+              
+              // Image with click event for fullscreen
+              const imgContainer = document.createElement('div');
+              imgContainer.style.cursor = 'pointer';
+              imgContainer.title = 'Click to view full-size image';
+              
+              const img = document.createElement('img');
+              img.src = feature.properties.image;
+              img.alt = feature.properties.name;
+              img.className = 'img-fluid mb-2';
+              img.style.maxHeight = '200px';
+              img.onclick = function() {
+                openFullScreenImage(feature.properties.image, feature.properties.name);
+              };
+              imgContainer.appendChild(img);
+              popupContent.appendChild(imgContainer);
+              
+              // Description
+              if (feature.properties.description) {
+                const descElement = document.createElement('div');
+                descElement.className = 'text-start mb-2';
+                descElement.innerHTML = feature.properties.description;
+                popupContent.appendChild(descElement);
+              }
+              
+              // Toggle visibility button
+              const toggleBtn = document.createElement('button');
+              toggleBtn.className = 'btn btn-sm btn-outline-secondary mt-1';
+              toggleBtn.textContent = 'Hide from map';
+              toggleBtn.onclick = function() {
+                // Toggle the checkbox in the list
+                const checkbox = document.getElementById(`location-${feature.id}`);
+                if (checkbox) {
+                  checkbox.checked = false;
+                  // Trigger the change event
+                  const event = new Event('change');
+                  checkbox.dispatchEvent(event);
+                }
+                
+                // Close the popup
+                layer.closePopup();
+              };
+              popupContent.appendChild(toggleBtn);
+              
+              layer.bindPopup(popupContent);
+            }
+          }).addTo(map);
+          
+          const bounds = geoJSONLayer.getBounds();
+          if (bounds.isValid()) {
+            map.fitBounds(bounds, {
+              padding: [40, 40],
+              maxZoom: 16
+            });
+          }
+          
+          // Generate location checklist
+          createLocationList(data.features);
+          
+          // Apply saved visibility states from localStorage
+          applyStoredVisibility();
+        })
+        .catch(error => {
+          console.error('Error loading GeoJSON:', error);
+          document.getElementById('error').innerHTML = '<div class="alert alert-danger mb-0 mt-3">Error loading locations data.</div>';
+        });
+    }
+    
+    // Function to open image in full screen modal
+    function openFullScreenImage(imageSrc, title) {
+      const modal = new bootstrap.Modal(document.getElementById('imageModal'));
+      document.getElementById('imageModalLabel').textContent = title || 'Location Image';
+      document.getElementById('fullscreen-image').src = imageSrc;
+      modal.show();
+    }
+    
+    // Function to create the location checklist
+    function createLocationList(features) {
+      const locationList = document.getElementById('location-list');
+      
+      features.forEach(feature => {
+        const id = feature.id;
+        const name = feature.properties.name;
+        
+        // Get coordinates
+        let coordinates = '';
+        if (feature.geometry && feature.geometry.coordinates) {
+          if (feature.geometry.type === 'Point') {
+            // Display coordinates rounded to 6 decimal places
+            const [lng, lat] = feature.geometry.coordinates;
+            coordinates = `(${lat.toFixed(6)}, ${lng.toFixed(6)})`;
+          }
+        }
+        
+        const checkboxItem = document.createElement('div');
+        checkboxItem.className = 'form-check mb-2';
+        
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.id = `location-${id}`;
+        checkbox.className = 'form-check-input';
+        checkbox.checked = true; // Default to checked
+        
+        checkbox.addEventListener('change', function() {
+          toggleMarkerVisibility(id, this.checked);
+          // Save state to localStorage
+          saveVisibilityState(id, this.checked);
+        });
+        
+        const label = document.createElement('label');
+        label.htmlFor = `location-${id}`;
+        label.className = 'form-check-label';
+        
+        // Main name
+        const nameSpan = document.createElement('span');
+        nameSpan.className = 'd-block';
+        nameSpan.textContent = name;
+        label.appendChild(nameSpan);
+        
+        // Coordinates with Bootstrap small text class
+        if (coordinates) {
+          const coordSpan = document.createElement('span');
+          coordSpan.className = 'text-muted small d-block';
+          coordSpan.textContent = coordinates;
+          label.appendChild(coordSpan);
+        }
+        
+        checkboxItem.appendChild(checkbox);
+        checkboxItem.appendChild(label);
+        locationList.appendChild(checkboxItem);
+      });
+      
+      // Set up show/hide all buttons
+      document.getElementById('show-all').addEventListener('click', showAllMarkers);
+      document.getElementById('hide-all').addEventListener('click', hideAllMarkers);
+    }
+    
+    // Function to toggle marker visibility
+    function toggleMarkerVisibility(id, visible) {
+      if (markers[id]) {
+        if (visible) {
+          if (!map.hasLayer(markers[id])) {
+            markers[id].addTo(map);
+          }
+        } else {
+          if (map.hasLayer(markers[id])) {
+            map.removeLayer(markers[id]);
+          }
+        }
+      }
+    }
+    
+    // Function to save visibility state to localStorage
+    function saveVisibilityState(id, visible) {
+      const storageKey = 'mapLocationVisibility';
+      let visibilityState = JSON.parse(localStorage.getItem(storageKey) || '{}');
+      visibilityState[id] = visible;
+      localStorage.setItem(storageKey, JSON.stringify(visibilityState));
+    }
+    
+    // Function to apply stored visibility states from localStorage
+    function applyStoredVisibility() {
+      const storageKey = 'mapLocationVisibility';
+      const visibilityState = JSON.parse(localStorage.getItem(storageKey) || '{}');
+      
+      // Apply stored visibility to each marker
+      Object.keys(visibilityState).forEach(id => {
+        const isVisible = visibilityState[id];
+        toggleMarkerVisibility(id, isVisible);
+        
+        // Update checkbox state
+        const checkbox = document.getElementById(`location-${id}`);
+        if (checkbox) {
+          checkbox.checked = isVisible;
+        }
+      });
+    }
+    
+    // Function to show all markers
+    function showAllMarkers() {
+      Object.keys(markers).forEach(id => {
+        toggleMarkerVisibility(id, true);
+        
+        // Update checkbox
+        const checkbox = document.getElementById(`location-${id}`);
+        if (checkbox) {
+          checkbox.checked = true;
+        }
+        
+        // Save state
+        saveVisibilityState(id, true);
+      });
+    }
+    
+    // Function to hide all markers
+    function hideAllMarkers() {
+      Object.keys(markers).forEach(id => {
+        toggleMarkerVisibility(id, false);
+        
+        // Update checkbox
+        const checkbox = document.getElementById(`location-${id}`);
+        if (checkbox) {
+          checkbox.checked = false;
+        }
+        
+        // Save state
+        saveVisibilityState(id, false);
+      });
+    }
+    
+    // Load locations
+    loadLocations();
+  });
+</script>
