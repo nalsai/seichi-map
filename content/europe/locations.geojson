@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tsukihime: St. Peter's Basilica",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_65.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.454161017541624,
+          41.90208380481941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Tsukihime: Fontana di Trevi",
         "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_09.avif",
         "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-2-the-trevi-fountain-in-rome"
