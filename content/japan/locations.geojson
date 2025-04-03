@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tsukihime: Nakano Residential Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/tsukihime/_/bg_23a.jpg"
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_23a.avif"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tsukihime: Shinjuku Sumitomo Building",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/tsukihime/_/bg_29a.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_29a.avif",
         "description": "The area has been renovated and you can barely recognize it anymore. Only the trees are still in the same place."
       },
       "geometry": {
@@ -34,7 +34,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tsukihime: Yokota Clinic",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/tsukihime/_/bg_67.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_67.avif",
         "description": "An usual old \"german-style\" building in Koshigaya. It used to be a clinic and before that a post office. https://www.youtube.com/watch?v=uskihGiO2nI https://retropost.net/koshigaya/"
       },
       "geometry": {
@@ -49,13 +49,256 @@
       "type": "Feature",
       "properties": {
         "name": "Tsukihime: Bic Camera Shibuya Hachiko Exit Store Sign",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/tsukihime/_/bg_86.jpg"
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_86.avif"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           139.69952911359783,
           35.659604330724015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SubaHibi: Parthenon Avenue (Tama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210219/20210219234404.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/subahibi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.424761304447,
+          35.62414840183171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SubaHibi: Renga Bridge (Tama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210219/20210219234422.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/subahibi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.42387310769774,
+          35.62154323630518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Queen's Square (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221195948.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63413785001913,
+          35.4563847056365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Landmark Tower 2F (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200139.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63092918779444,
+          35.45486429340934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Minatomirai Center Building (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "description": "The building in the background of the station is the Minato Mirai Center Building, but the station itself is actually Genbaku Dome-Mae Station in Hiroshima."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63388441826692,
+          35.45762829401641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Keyaki Avenue (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221195938.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63414046166028,
+          35.457797457052784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Shinkyogoku Shopping Street (Kyoto)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002243.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "description": "The store has changed so it looks a little different now."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673731413051,
+          35.0073116771607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto Botanical Garden (Kyoto)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002223.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76394824413768,
+          35.05014785024713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto Botanical Garden (Kyoto)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002213.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7645269795909,
+          35.047478115722136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002154.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.68385262784662,
+          34.979084670721065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002144.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.68009477830495,
+          34.98082165281947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002204.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.67906855662096,
+          34.98207408578309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002233.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6773843747983,
+          34.983059702993415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Ōyodo Naka Park (Osaka)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002133.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.48903352087626,
+          34.70530174818592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Genbaku Dome-Mae Station (Hiroshima)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "description": "The station is Genbaku Dome-Mae Station in Hiroshima, but the building in the background is the Minato Mirai Center Building in Yokohama."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.45422773207113,
+          34.39611977088741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senren*Banka: THE GARDEN PLACE SOSHUEN (Kobe)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20220929/20220929000849_original.png",
+        "link": "https://rinnow.hatenablog.com/entry/senren#%E8%98%87%E5%B7%9E%E5%9C%92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2544855734471,
+          34.727578210114395
         ]
       }
     }
