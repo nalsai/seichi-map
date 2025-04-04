@@ -181,17 +181,18 @@
       const locationList = document.getElementById('location-list');
       
       features.forEach(feature => {
+        if (feature.properties.hidden === 'true') {
+          return; // Skip hidden features
+        }
+
         const id = feature.id;
         const name = feature.properties.name;
-        
         // Get coordinates
         let coordinates = '';
-        if (feature.geometry && feature.geometry.coordinates) {
-          if (feature.geometry.type === 'Point') {
-            // Display coordinates rounded to 6 decimal places
-            const [lng, lat] = feature.geometry.coordinates;
-            coordinates = `(${lat.toFixed(6)}, ${lng.toFixed(6)})`;
-          }
+        if (feature.geometry && feature.geometry.coordinates && feature.geometry.type === 'Point') {
+          // Display coordinates rounded to 6 decimal places
+          const [lng, lat] = feature.geometry.coordinates;
+          coordinates = `(${lat.toFixed(6)}, ${lng.toFixed(6)})`;
         }
         
         const checkboxItem = document.createElement('div');
