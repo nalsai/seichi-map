@@ -397,6 +397,972 @@
           34.84775978538305
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Chiba Port Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/91.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0993942468515,
+          35.5981914528429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Chiba Station",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/4.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1145394592334,
+          35.612622683931775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Inage Overpass",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Kan%20-%2011%20-%2015m47s989t.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08439188589693,
+          35.63195715477925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Takasu Community Center Chiba",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/14.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07060703976532,
+          35.62713512702018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Yukino's Apartment",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/92.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04562697840748,
+          35.64397655780282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Crystal View Observation Rest House",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m36s978t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86086896852163,
+          35.63915386129988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - behind Crystal View Observation Rest House",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2017m52s488t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.85959948458853,
+          35.64097020791387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park Dome",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m31s681t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86235933931994,
+          35.640362391059135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/83.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.858069216516,
+          35.64254797429428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel (close-up)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/93.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8574197852503,
+          35.64403794056119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park Station",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/81.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86116041224824,
+          35.6440769278199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 1",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m13s511t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86181714771593,
+          35.64015331821779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 2",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m22s687t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8619417227825,
+          35.64023623810969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 3",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2010m02s936t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86199818893687,
+          35.64013618278943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 4",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2014m29s452t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86213889276323,
+          35.64012414543344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Trackless Train",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m26s717t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86051463131534,
+          35.64278079245109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Former Den-en-chofu Station Building",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005814.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6668649768015, 35.59716770476236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Former Den-en-chofu Station Building - Side",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005830.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6669688865518, 35.59704041688326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Fountain in Front of the Former Den-en-chofu Station Building",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005918.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66701332857173, 35.597173945468626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211161247.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66942384923206, 35.58573418156489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211161336.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66991275455516, 35.586018484306685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge 3",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/3/3/33d813d3.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669302380793, 35.58620711871249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge 4",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/5/4/54482e73.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66931863220452, 35.5860320145553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Gyokusendo Book Store",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160856.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6618957521618, 35.59813813381133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Road East of Gyokusendo Book Store",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160525.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66187143515876, 35.59818736360064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Gyokusendo Book Store 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160913.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66177516915783, 35.598156496821545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Akiba Black Pine",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211153649.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65923799276192, 35.59564111956207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Hōrai Park Street",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104153840.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66361855383855, 35.59441814409177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Hōrai Park South East Entrance",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104153333.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66504757185012, 35.59437508872899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 1",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152403.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673469376963, 35.5950309506068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152436.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673014510052, 35.594823100226996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 3",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/6/7/67522ca3.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66716725161606, 35.59483272064571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 3 - T-Junction",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152538.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66736591308174, 35.59483652884797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome 1",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/e/5/e545e77f.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6612102982113, 35.59352504202173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome Stairs",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/4/3/4386af5b.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66114322412963, 35.59336884692854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome Corner",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/2/8/28ff77f0.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673661149677955286591308174, 35.59346057763016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome 2",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/d/f/dfd2834f.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66125522683552, 35.59341108252701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome 3",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/3/e/3ecd38e0.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66107691313633, 35.59330645326181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Koshigaya Station West Exit",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/kosigaya_nishiguchi1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7852877228059, 35.8884420101956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Koshigaya Station West Exit Street",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/kyukobayashi2.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78535286346758, 35.88800730205599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Crosswalk near Koshigaya Station West Exit",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/kyukobayashi1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7844453443772, 35.887893613986044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Koshigaya Station East Exit from Escalator",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/higashiguchi1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78650181180768, 35.88904738892097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Koshigaya East Exit Bus Stop",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/higashiguchi3.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78610533170848, 35.88862666092951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Koshigaya Station East Exit View",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/higashiguchi1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79384634086372, 35.88835099190968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Koshigaya Station East Exit",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/higashiguchi7.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78627080394972, 35.88834825839703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Saitama Resona Bank Koshigaya (Oborozuka Bank)",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/faf5.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78791058071522, 35.889045909631946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Real Estate Agency (Oborozuka Residence)",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/faf6.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7880515706762, 35.88908596222865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Dentist / STORY Hair Salon",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/faf4.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/",
+        "description": "It used to be a dentist like in the anime, but now it's a hair salon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7889717015642, 35.88920623316265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: East of Shinheiwa Bridge",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/faf1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79303258618842, 35.890651286906255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Shinheiwa Bridge",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/faf2.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79286238383204, 35.8909516201695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Wisteria at the North-West End of Shinheiwa Bridge",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/faf3.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7916357787916, 35.89057460959184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Higashikoshigaya Botan Park",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/park1-1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/",
+        "description": "Botan is the Japanese word for peony. (Skip if low on time.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7989268969512, 35.890399573755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Higashikoshigaya Botan Park Slide",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/park1-2.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79914213067752, 35.89030349572429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Higashikoshigaya Botan Park Bench",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/park1-3.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7992571064733, 35.89035909933217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Higashikoshigaya Botan Park Grass Field",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/park1-4.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79941465509344, 35.89013095039582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Higashikoshigaya Nanachome Shiinoki Park (South Side)",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/park2-1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.80044779303446, 35.89063215768744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Higashikoshigaya Nanachome Shiinoki Park",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/park2-3.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.80045340081003, 35.89090156326962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Way to School",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/tugaku.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.80430969629953, 35.89168543935159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Motoara River 1",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/river1.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/",
+        "description": "Proportions don't match so the photo will be a bit off."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7923191453093, 35.88873525727121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Motoara River 2",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/river3.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79384634086372, 35.88835099190968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragon Maid: Motoara River 3",
+        "image": "https://survive-tactics.com/wp-content/uploads/2018/09/river2.png",
+        "link": "https://survive-tactics.com/2018/09/24/maidragon_seichizyunnrei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79522241946881, 35.88778862738444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Nagoya Station",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215359.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.88399850293274, 35.17187041479474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Hijiechō Street",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215409.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.88543058371985, 35.1694666035802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Ōtsu Street",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215418.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90697654169196, 35.16426480447924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Nadya Park",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215505.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90527824448566, 35.165374239836254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Wakamiya Hachiman Shrine",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215429.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90331380227164, 35.16303601685916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Osaka University Toyonaka Campus",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215439.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.45359463229238, 34.80589270692499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Universal City",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215454.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/stella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.437127635988, 34.66811311474616
+        ]
+      }
     }
   ]
 }
