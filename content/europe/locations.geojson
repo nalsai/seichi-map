@@ -29,40 +29,7 @@
       },
       "properties": {
         "name": "Nuremberg - Schildgasse\n",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h00m49s104t.avif",
-        "description": "Violet and Taylor walk down this street when they're delivering mail in the \"new town\" of Leiden"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0766155,
-          49.4575833,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nuremberg - Kaiserburg\n",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h05m03s358t.avif",
-        "description": "View from the entrance to Kaiserburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0779047,
-          49.4535697,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nuremberg - Hauptmarkt\n",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h11m50s264t.avif",
-        "description": "In the movie we're only getting a short glympse at this place. In real-life it's probably mostly known for hosting\"Nuremberg Christkindlesmarkt\", a Christmas market held here annually from the end of November until christmas eve. Outside this period it is mainly uses as a market for local produce or as an event space."
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h00m49s104t.avif"
       }
     },
     {
@@ -77,24 +44,7 @@
       },
       "properties": {
         "name": "Nuremberg - Königsstraße",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h03m20s922t.avif",
-        "description": "Another cut from Violets and Taylors tour to new town. The buildings on the left exist, but the one on the right is either located somewhere else or completely made up."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0793579,
-          49.4493432,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nuremberg - Königstraße2",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h51m39s138t.avif",
-        "description": "Unlike most of the cuts using Nuremberg locations in the movie, this one is from Taylors and Benedicts mail delivery tour, not the later one with Violet. The real-life counterpart is located at the intersection of Königstraße and Theatergasse."
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h03m20s922t.avif"
       }
     },
     {
