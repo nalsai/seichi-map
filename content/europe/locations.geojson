@@ -3,52 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0777682,
-          49.4511922,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nuremberg - Nassauer Haus\n",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h05m23s920t.avif",
-        "description": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0776104,
-          49.4571506,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nuremberg - Schildgasse\n",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h00m49s104t.avif"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0809063,
-          49.4482039,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nuremberg - Königsstraße",
-        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h03m20s922t.avif"
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "name": "Tsukihime: Arc de Triomphe",
         "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_11.avif",
@@ -135,6 +89,612 @@
         "coordinates": [
           11.141535805170275,
           51.78922595747151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Hauptstraße",
+        "image": "https://livedoor.blogimg.jp/touyokojunrei-yokofuji3/imgs/8/f/8fbc32e6-s.jpg",
+        "link": "https://touyokojunrei.com/archives/75012722.html",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.693663336764821,
+          49.40965541993813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Hauptstraße (night)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/174f0b3b5bb5c9ea3405c8c4db39b6003bf3b373.jpg",
+        "link": "https://touyokojunrei.com/archives/75012722.html",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.693598911353726,
+          49.40955964178914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Peterskirche",
+        "image": "https://imgsa.baidu.com/forum/pic/item/843bc61b9d16fdfa7b2270cbba8f8c5495ee7b99.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705491696000587,
+          49.409572279388996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Peterskirche - stairs",
+        "image": "https://imgsa.baidu.com/forum/pic/item/72e92e9759ee3d6d3fe120ee4d166d224e4adec0.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705528139218975,
+          49.40951657952821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Peterskirche - stairs (close up)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/7a3a356d55fbb2fb2f0cff37414a20a44723dcc0.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705622723370535,
+          49.40945663793232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Peterskirche/Providenzkirche - inside",
+        "image": "https://imgsa.baidu.com/forum/pic/item/8452c1177f3e670913efdbda35c79f3df9dc5578.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"The inside in the VN is closer to the inside of the Providenzkirche",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705842471048088,
+          49.40932838827171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Providenzkirche - inside (1)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/8452c1177f3e670913efdbda35c79f3df9dc5578.jpg",
+        "link": "https://www.bilibili.com/opus/608934166811653874",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.701980307346135,
+          49.411010417863416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Providenzkirche - inside (2)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/ef/1a21a4ea5354080fa8a588142a9720ff741528d5.jpg",
+        "link": "https://www.bilibili.com/opus/608934166811653874",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.702027067881884,
+          49.4108057197196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Providenzkirche - inside (3)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/ef/07.jpg",
+        "link": "https://m.blog.naver.com/sejbe/221139771810",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.702016674247208,
+          49.41086852972298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Providenzkirche - inside (4)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/ef/06.jpg",
+        "link": "https://m.blog.naver.com/sejbe/221139771810",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.701943750398017,
+          49.410914970565834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Peterskirche - side",
+        "image": "https://imgsa.baidu.com/forum/pic/item/8c85fbdeb48f8c544c9d730a34292df5e1fe7f99.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705499490133231,
+          49.40942152410944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Peterskirche - corner",
+        "image": "https://imgsa.baidu.com/forum/pic/item/912f4b166d224f4a4fbed43607f790529922d1c0.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705697975372232,
+          49.40954132539154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Calzedonia",
+        "image": "https://livedoor.blogimg.jp/touyokojunrei-yokofuji3/imgs/7/c/7ca06dee-s.jpg",
+        "link": "https://touyokojunrei.com/archives/75012722.html",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.694006445243128,
+          49.40979854884351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: 403941873190675",
+        "image": "https://imgsa.baidu.com/forum/pic/item/55dd4336acaf2edd95fc75c1831001e9380193d8.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"Only very roughly similar",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.727239372495955,
+          49.403941873190675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Hauptstraße (center)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/361a3ed3d539b6001f38c490e750352ac75cb773.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"Only roughly similar",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.703957153437049,
+          49.41141269950829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Penny",
+        "image": "https://imgsa.baidu.com/forum/pic/item/f6edbe003af33a87ce9bcb3dc85c10385243b573.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.695538485041157,
+          49.408906328414986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: intersection of Mönchgasse and Heiliggeiststraße",
+        "image": "https://imgsa.baidu.com/forum/pic/item/85caa0d3fd1f4134edf332562b1f95cad0c85e21.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.711877094751584,
+          49.4125331498025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: intersection of Mönchgasse and Heiliggeiststraße - curb",
+        "image": "https://imgsa.baidu.com/forum/pic/item/decb4934970a304e59e697d2dfc8a786c8175c21.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.711845251792397,
+          49.41258858217357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: intersection of Mönchgasse and Heiliggeiststraße (2)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/b4de384e251f95caaf31a59ec7177f3e66095221.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.711922936789154,
+          49.41242669258783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Hauptstraße 236",
+        "image": "https://imgsa.baidu.com/forum/pic/item/06cb9dcad1c8a78649ee7d266909c93d71cf5021.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          8.71532303107469,
+          49.41317760677965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Rothenburg ob der Tauber Station",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/ef/0dec61cf1a5b8dfa657444f5e180c97b7c87fb7d.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.190723693779749,
+          49.37677688172771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Rothenburg ob der Tauber Station (2)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/a956b1014a90f603a4285f643712b31bb151ed4a.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.190646689727712,
+          49.37671533895522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Rothenburg ob der Tauber Station (3)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/d5d77b8da977391269be4642f6198618377ae24a.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description": "Only one platform exists in real life",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.190569685675676,
+          49.37665379618273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Marktplatz",
+        "image": "https://imgsa.baidu.com/forum/pic/item/f21caf86c9177f3ee9ba3f2e7ecf3bc79e3d565f.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179274493814798,
+          49.37691650624317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Marktplatz (2)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/eae978cf3bc79f3d6b6f2713b4a1cd11738b295f.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179039503042494,
+          49.377145535412026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Marktplatz (3)",
+        "image": "https://imgsa.baidu.com/forum/pic/item/1813973df8dcd1002f123b027c8b4710b8122f5f.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.17892700555672,
+          49.37711609598796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: St. Jakobskirche",
+        "image": "https://imgsa.baidu.com/forum/pic/item/361a3ed3d539b60024873f93e750352ac75cb798.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.177589462350143,
+          49.37770979345495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Rödertor Anlage",
+        "image": "https://imgsa.baidu.com/forum/pic/item/a490e3f81a4c510f2561ce3e6e59252dd52aa545.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.184752905714223,
+          49.37631985712669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ef: Plönlein",
+        "image": "https://imgsa.baidu.com/forum/pic/item/60c265224f4a20a4bfac00e39e529822730ed0bc.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "icon": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          10.180091342513924,
+          49.37465996941418
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Plönlein",
+        "image": "https://imgsa.baidu.com/forum/pic/item/4ef6474a20a44623f37899469622720e0df3d7bc.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"the original image from the VN was mirrored"
+      },
+      "geometry": {
+        "coordinates": [
+          10.18001087615658,
+          49.37465429354014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: T-Junction Untere Schmiedgasse and Wenggasse",
+        "image": "https://imgsa.baidu.com/forum/pic/item/054351ee3d6d55fb46744a0263224f4a21a4ddbc.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"the original image from the VN was mirrored"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179979332956233,
+          49.375112776680204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: St. Jakobskirche",
+        "image": "https://imgsa.baidu.com/forum/pic/item/95d432f33a87e950145ec3481e385343faf2b498.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222"
+      },
+      "geometry": {
+        "coordinates": [
+          10.17827926075296,
+          49.37787930021757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Goldenes Fass",
+        "image": "https://imgsa.baidu.com/forum/pic/item/fa2ddf2a6059252dd4b331203a9b033b5ab5b945.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222"
+      },
+      "geometry": {
+        "coordinates": [
+          10.191366427959311,
+          49.37543130349832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Weinstraße",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/2018042901231862c.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.575484028325004,
+          48.138798925909164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Karlsplatz",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/20180429012312d22.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56574333289011,
+          48.1391247701503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Schloss Nymphenburg",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/2018042901231071d.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.505129065621055,
+          48.158311730650794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Schloss Nymphenburg - Fountain",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/Dknh4rfWwAAjLCT.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50128673586936,
+          48.1581795195023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Schloss Nymphenburg - Bridge",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/Dknij01X4AAk1cd.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html",
+        "description":"extimated location"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50007849852936,
+          48.15683619255715
         ],
         "type": "Point"
       }

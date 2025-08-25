@@ -21,7 +21,8 @@
       "properties": {
         "name": "Riddle Joker: Genbaku Dome-Mae Station (Hiroshima)",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "icon": "red"
       },
       "geometry": {
         "type": "Point",
@@ -703,7 +704,8 @@
       "properties": {
         "name": "Cafe Stella: Nagoya Station",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215359.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -718,7 +720,8 @@
       "properties": {
         "name": "Cafe Stella: Hijiechō Street",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215409.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +736,8 @@
       "properties": {
         "name": "Cafe Stella: Ōtsu Street",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215418.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -748,7 +752,8 @@
       "properties": {
         "name": "Cafe Stella: Nadya Park",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215505.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -763,7 +768,8 @@
       "properties": {
         "name": "Cafe Stella: Wakamiya Hachiman Shrine",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215429.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -778,7 +784,8 @@
       "properties": {
         "name": "Cafe Stella: Osaka University Toyonaka Campus",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215439.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -793,7 +800,8 @@
       "properties": {
         "name": "Cafe Stella: Universal City",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215454.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/stella"
+        "link": "https://rinnow.hatenablog.com/entry/stella",
+        "icon": "cafestella"
       },
       "geometry": {
         "type": "Point",
@@ -831,6 +839,21 @@
           139.727719595335,
           35.56740668534043
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Kawaguchiko Music Forest Museum",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/FPVdN4LaUAUpCW8.jpg",
+        "link": "https://x.com/yamabito0/status/1510215750484893697"
+      },
+      "geometry": {
+        "coordinates": [
+          138.76848544452366,
+          35.52220899468692
+        ],
+        "type": "Point"
       }
     }
   ]
