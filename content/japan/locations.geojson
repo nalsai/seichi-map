@@ -815,7 +815,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fate: Japan Christian Junior College",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Homurahara%20Academy/Entrance/o%E5%AD%A6%E5%9C%92%E6%AD%A3%E9%96%80-%28%E6%98%BC%29.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-jcjc.avif",
         "description": "The college was demolished in 2009 and the site is now filled with rows of detached houses."
       },
       "geometry": {
@@ -830,7 +830,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fate: Umeyashiki Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Shopping%20District/o%E5%95%86%E5%BA%97%E8%A1%97-%28%E6%98%BC%29.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/umeyashiki.avif",
         "link": "https://kimamanidance.hatenablog.com/entry/2021/02/21/180000"
       },
       "geometry": {
