@@ -855,6 +855,21 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Yugyō-ji",
+        "image": "https://en.nalsai.de/blog/seichi/fate/yugyoji.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#yugyō-ji-fujisawa-kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4883360811191,
+          35.34804540673058
+        ]
+      }
     }
   ]
 }
