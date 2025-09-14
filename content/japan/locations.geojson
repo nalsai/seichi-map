@@ -861,13 +861,30 @@
       "properties": {
         "name": "Fate: Yugyō-ji",
         "image": "https://en.nalsai.de/blog/seichi/fate/yugyoji.avif",
-        "link": "https://en.nalsai.de/blog/seichi/fate#yugyō-ji-fujisawa-kanagawa"
+        "link": "https://en.nalsai.de/blog/seichi/fate#yugyō-ji-fujisawa-kanagawa",
+        "description": "NOTE: The interior is based on Eihei-ji in Fukui Prefecture."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           139.4883360811191,
           35.34804540673058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Somon Gate of Engaku-ji",
+        "image": "https://en.nalsai.de/blog/seichi/fate/engakuji.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#engaku-ji-kamakura-kanagawa",
+        "description": "Looks similar but the stairs are different."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54596673866536,
+          35.33696792890682
         ]
       }
     }
