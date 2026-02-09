@@ -901,6 +901,161 @@
           35.33696792890682
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1900342,
+          34.6967038
+        ]
+      },
+      "properties": {
+        "name": "LLJ: 路地裏",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-alley.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4875039,
+          34.7033005
+        ]
+      },
+      "properties": {
+        "name": "LLJ: ライブハウス周辺",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-street.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1934671,
+          34.6942843
+        ]
+      },
+      "properties": {
+        "name": "LLJ: 英山駅前",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-station.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1933806,
+          34.6942181
+        ]
+      },
+      "properties": {
+        "name": "LLJ: MV",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-mv.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0497527,
+          34.3424757
+        ]
+      },
+      "properties": {
+        "name": "LLJ: 河鍋音楽祭",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-takamatsu.png",
+        "description": "TODO: image 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1936095,
+          34.7002908
+        ]
+      },
+      "properties": {
+        "name": "LLJ: オムライス店？",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-omrice.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1886927,
+          34.6909109
+        ]
+      },
+      "properties": {
+        "name": "LLJ: イタリア洋菓子屋？",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1918752,
+          34.6921956
+        ]
+      },
+      "properties": {
+        "name": "LLJ: スフォリアテッラ",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1981875,
+          34.6960625
+        ]
+      },
+      "properties": {
+        "name": "LLJ: モスバーガー",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1934835,
+          34.6938281
+        ]
+      },
+      "properties": {
+        "name": "LLJ: スターバックス",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1870241,
+          34.6960039
+        ]
+      },
+      "properties": {
+        "name": "LLJ: バーチ ディ ダーマ",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
+      }
     }
   ]
 }

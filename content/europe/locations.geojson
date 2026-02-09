@@ -227,6 +227,21 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3695582,
+          48.2027425
+        ]
+      },
+      "properties": {
+        "name": "LLJ: ケルントナー通り",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-wien-1.png",
+        "description": "TODO: image 2"
+      }
     }
   ]
 }
