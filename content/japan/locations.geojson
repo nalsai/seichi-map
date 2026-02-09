@@ -1056,6 +1056,21 @@
         "name": "LLJ: バーチ ディ ダーマ",
         "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7002269286329,
+          35.659382674131
+        ]
+      },
+      "properties": {
+        "name": "Subahibi: Rooftop Background Buildings (Shibuya)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/subahibi/roof.jpg",
+        "description": "TODO: real image: shibuya-rl.png"
+      }
     }
   ]
 }
