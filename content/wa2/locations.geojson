@@ -6,22 +6,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.689698,
-                    35.6878585,
-                    0
+                    139.70107001346756,
+                    35.692141032100594
                 ]
             },
             "properties": {
-                "name": "新宿中央公園ちびっ子広場",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoown6aipPrz2cvAB1a71pzM6VKUaE5dXC92yHkPyucYu4WZbBIDAtrrR6bvKLnB3Ao5f_LCsfHP5lTLuww40avPB4o1-nefeskdZO-jydRVzgSbKwJ2KqOsuvLOL3v2cqsxAvw1wVyEI8F2RXVDo_BYGf4s9eEi9mGBtWvf_BwJehh91wcSSu3ZbOD39nTvaikCdgg2IekOB6L5hOkulbH8FajKNjU-H1z3SAMo6O3GCwxgzi59t1WiXtk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>cc、coda 春希御用達の御宿駅近くの公園<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopRxfOv8FAMWbhNb-KnvqDIONpgGD5aQo-h2RnJp51bjY-CuOdiHNf_nY8Qfp062Pje0L5pp78MXe7hanZPa2U5ZKGIUJ4fa6VobC-LgU-SMZUzozVX5uBDABaPyyByMRxLzQ67EGWRdlEeQjCVGEW6mfo1D32jjpUBGdNz1BQu9X0oGxt4q6LIVkHufTges26S71oc61nC-hG3Deyd70xa_UT1IDMiGTSIpa2ZRnczJtkMOtRLPiPzqO8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopMNGU3Z7E0ktxL7m9Uzz-V72dgHe7y9jJDrWAlAPjTsOUAQHwMd_1Nl-MlqUbwTJjqYvHYRukeTH9trZyO2MJjLYT1l9j93yly7pJY5-NDTqfHqzbS9k5AAJ9PdLn02uRdzRPiZunqb8JyUre-cfRnWddx_eS0w4FtSoHnqqA1L0pNSxxJe43_DY0xQpIcUHehLvWdA7Iv4-dNmHoCKIrfyK-SKZoibIj9fg463_eRV2O0SpDEAIBOgW8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoown6aipPrz2cvAB1a71pzM6VKUaE5dXC92yHkPyucYu4WZbBIDAtrrR6bvKLnB3Ao5f_LCsfHP5lTLuww40avPB4o1-nefeskdZO-jydRVzgSbKwJ2KqOsuvLOL3v2cqsxAvw1wVyEI8F2RXVDo_BYGf4s9eEi9mGBtWvf_BwJehh91wcSSu3ZbOD39nTvaikCdgg2IekOB6L5hOkulbH8FajKNjU-H1z3SAMo6O3GCwxgzi59t1WiXtk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopRxfOv8FAMWbhNb-KnvqDIONpgGD5aQo-h2RnJp51bjY-CuOdiHNf_nY8Qfp062Pje0L5pp78MXe7hanZPa2U5ZKGIUJ4fa6VobC-LgU-SMZUzozVX5uBDABaPyyByMRxLzQ67EGWRdlEeQjCVGEW6mfo1D32jjpUBGdNz1BQu9X0oGxt4q6LIVkHufTges26S71oc61nC-hG3Deyd70xa_UT1IDMiGTSIpa2ZRnczJtkMOtRLPiPzqO8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopMNGU3Z7E0ktxL7m9Uzz-V72dgHe7y9jJDrWAlAPjTsOUAQHwMd_1Nl-MlqUbwTJjqYvHYRukeTH9trZyO2MJjLYT1l9j93yly7pJY5-NDTqfHqzbS9k5AAJ9PdLn02uRdzRPiZunqb8JyUre-cfRnWddx_eS0w4FtSoHnqqA1L0pNSxxJe43_DY0xQpIcUHehLvWdA7Iv4-dNmHoCKIrfyK-SKZoibIj9fg463_eRV2O0SpDEAIBOgW8?authuser=0&fife=s16383"
+                "name": "WA2: JR新宿駅東口前",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-station.png"
             }
         },
         {
@@ -29,22 +21,89 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7195555,
-                    35.7054735,
-                    0
+                    139.70113898739626,
+                    35.692286007693816
+                ]
+            },
+            "properties": {
+                "name": "新宿 ダイビル",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-screen.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7024236052739,
+                    35.691886857852126
+                ]
+            },
+            "properties": {
+                "name": "紀伊國屋書店 新宿本店前交差点",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-books.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75958586022523,
+                    35.66550973909646
+                ]
+            },
+            "properties": {
+                "name": "新橋駅",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-station.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70441323613488,
+                    35.69114475939917
                 ]
             },
             "properties": {
                 "name": "伊勢丹新宿店本館 入口",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorUt6J5SxmGDgEab0s2fRGze0fcx2VNh4L_6LFu51UpqvTAlTq5oVvz3pUJZDXGnrSU7fnj2NYzF_SzOdjCzBdgZmGKk-l5OJR4fSxRACrMsAhFRbcEvuIzdtdHt2W9gOVrXk1xwoFKpyjSaO0jFdA71kowXFH8Mc7jSm3sEA1cc3AnrMZyyTbkRMazo294IXECiwAVLCp7QQnDC4aVCer8dzjP-WeBstHFk5SCs2h1eKP7TJTl6dfud1c?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>cc、coda 開桜社入り口<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBors6PzZhhSVpA5gp9Yt4x0o3lfqpXfvU9kcnzdyUSx_jEMgCK_2ADb8f6dnJJWFJRy95HCnHjN9HAZPoscX7OkTtE1YEU5n8jnLln5jNo39_flAs8-_Rv-6St2QYZuz2t8HD4nRak_QFLb5DmYtbeAUBKBYtS7PvcBPgmJB6WdJxHB9M2_B6xZlLTJcoZiYmHYi7RBJzTRUhSZhZLXj5FXaARDIWzb1X7PkFo4-G9dgwZe0EdKA0tgrkgY?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorUt6J5SxmGDgEab0s2fRGze0fcx2VNh4L_6LFu51UpqvTAlTq5oVvz3pUJZDXGnrSU7fnj2NYzF_SzOdjCzBdgZmGKk-l5OJR4fSxRACrMsAhFRbcEvuIzdtdHt2W9gOVrXk1xwoFKpyjSaO0jFdA71kowXFH8Mc7jSm3sEA1cc3AnrMZyyTbkRMazo294IXECiwAVLCp7QQnDC4aVCer8dzjP-WeBstHFk5SCs2h1eKP7TJTl6dfud1c?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBors6PzZhhSVpA5gp9Yt4x0o3lfqpXfvU9kcnzdyUSx_jEMgCK_2ADb8f6dnJJWFJRy95HCnHjN9HAZPoscX7OkTtE1YEU5n8jnLln5jNo39_flAs8-_Rv-6St2QYZuz2t8HD4nRak_QFLb5DmYtbeAUBKBYtS7PvcBPgmJB6WdJxHB9M2_B6xZlLTJcoZiYmHYi7RBJzTRUhSZhZLXj5FXaARDIWzb1X7PkFo4-G9dgwZe0EdKA0tgrkgY?authuser=0&fife=s16383"
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/office.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69648893988068,
+                    35.690218520855105
+                ]
+            },
+            "properties": {
+                "name": "WA2: 新宿郵便局前",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6897785921876,
+                    35.68691861468627
+                ]
+            },
+            "properties": {
+                "name": "新宿中央公園ちびっ子広場",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/park.png"
             }
         },
         {
@@ -53,21 +112,12 @@
                 "type": "Point",
                 "coordinates": [
                     139.70049,
-                    35.69347,
-                    0
+                    35.69347
                 ]
             },
             "properties": {
                 "name": "公衆電話",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqKC4ORBHIrvMZXTlJsDrZKl42fo6r52jAyIODOCitvmSbYXW0V1ehO_uoQtxT54viZgfLjkNri1C5DGLQzbx02_GeZT3IIO3P4LLtkYRyk3aAcpBpBt2fRIJ9sLBZoas_gD1CgQRUlodhpumMK5mA6QClKnT12oCOQRp3dID17igTNPN_hb_qN60gQQuocOpfD4QK9QsBciQV45-QgGdbcMtRAJ5pRGXlhRu8-pHgF0sFulJIv-A9U43k?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>coda かずさが春希に助けを求める際に使用した。なお、ゲーム本編では背景画はないが「御宿駅前のワック（マック）」などの説明があったため特定されている。",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqKC4ORBHIrvMZXTlJsDrZKl42fo6r52jAyIODOCitvmSbYXW0V1ehO_uoQtxT54viZgfLjkNri1C5DGLQzbx02_GeZT3IIO3P4LLtkYRyk3aAcpBpBt2fRIJ9sLBZoas_gD1CgQRUlodhpumMK5mA6QClKnT12oCOQRp3dID17igTNPN_hb_qN60gQQuocOpfD4QK9QsBciQV45-QgGdbcMtRAJ5pRGXlhRu8-pHgF0sFulJIv-A9U43k?authuser=0&fife=s16383"
+                "description": "not pictured in game"
             }
         },
         {
@@ -75,114 +125,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6883555,
-                    35.691295,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "icかずさ告白スポット",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqVM-bA6HPAC3zL-n-c_Os9mZhTNiu7E7Ls8XpV8chcOLGkNOh3zrhb32x1StomgY5xEPwyP-NCn-Jsc5-8xLbupDmxQgpJ-2JW7aO6yCXySxv2i2A9JVofiROe2jy7qQzi8BQqbTPc53qh9b9sxix0uPZ71QTlKU5cbZAtd1HT8bMFfNJF-syfCmvsa4Pllj_pVeEoQt_99fywDELfASD6GYeuBmjIFmRJYhZ3HC4h26mIEtdpNhTXYvQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ic かずさの告白シーン 「なんでそんなになれてんだよ！！」<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqsb1-ldZMcCQAnr04_C-7e7625ExwuOJVV5cXrm5I9_M-qvEktcW10y4Uj8r8rsv6JiEQB9Tms1rXt-U7-0gL1Mb9kRsvk5Ysx2tqYhQ2CvXTtJP_N4JdfTsFkZbTeGLUA9Uigff_6CpJANkztO4cYihFj_DUWj_xo2DcFAxm_iXC09FSxr37oVB52e_WibtT97cdD8fJkKh6DDpQaT1d21IIubhrJYOGuL8rY6YDtthmaGJ-buL7TV2U?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor8IB13OLaBBs9HFdj9RhFmxk_RvhiQq4IMWhwqRPs1NR2oFw_ksA1ncBknAzkzM-7-vOdxaWvwX01cB4Y1g9Z04ND7F4ulnhcSAKmACbcZhCs76xGPRxkLukv_RJnpwoDkda7WAWFBxxG16LUTvJfUymRpdtwsYUWn2sPzO-0_d56ibxuNxINv0iO3U4OKfxW2uS8tAwYWZKKB43SyzuIcnzHKqGixJewNgCc41kf5LZC2Vj6WH_I0rx8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBormFYRrm9uv2G_rFYFa-NjT2vhbLIo3q_s9g4sd1UuwmZy0xW-yvBdMSdj9mFV7yZwO2o8PV8sDhLfDOqnaZFk8GW7uvBYdZ8ocAW5WRoZ-IUwFgWoLxAAaS7MzP_kH3NgeJINMKlDevHWjgdX7Jq1UB3SCqUNuAphgxZo8qd08_qx2RSJiBuB_cHR0IyPRzlUzIwuCfEuj00dSK4agS7E2AZeVobfFNRnKfKhoYAg0u20mIZOpXukiUzI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqVM-bA6HPAC3zL-n-c_Os9mZhTNiu7E7Ls8XpV8chcOLGkNOh3zrhb32x1StomgY5xEPwyP-NCn-Jsc5-8xLbupDmxQgpJ-2JW7aO6yCXySxv2i2A9JVofiROe2jy7qQzi8BQqbTPc53qh9b9sxix0uPZ71QTlKU5cbZAtd1HT8bMFfNJF-syfCmvsa4Pllj_pVeEoQt_99fywDELfASD6GYeuBmjIFmRJYhZ3HC4h26mIEtdpNhTXYvQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqsb1-ldZMcCQAnr04_C-7e7625ExwuOJVV5cXrm5I9_M-qvEktcW10y4Uj8r8rsv6JiEQB9Tms1rXt-U7-0gL1Mb9kRsvk5Ysx2tqYhQ2CvXTtJP_N4JdfTsFkZbTeGLUA9Uigff_6CpJANkztO4cYihFj_DUWj_xo2DcFAxm_iXC09FSxr37oVB52e_WibtT97cdD8fJkKh6DDpQaT1d21IIubhrJYOGuL8rY6YDtthmaGJ-buL7TV2U?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor8IB13OLaBBs9HFdj9RhFmxk_RvhiQq4IMWhwqRPs1NR2oFw_ksA1ncBknAzkzM-7-vOdxaWvwX01cB4Y1g9Z04ND7F4ulnhcSAKmACbcZhCs76xGPRxkLukv_RJnpwoDkda7WAWFBxxG16LUTvJfUymRpdtwsYUWn2sPzO-0_d56ibxuNxINv0iO3U4OKfxW2uS8tAwYWZKKB43SyzuIcnzHKqGixJewNgCc41kf5LZC2Vj6WH_I0rx8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBormFYRrm9uv2G_rFYFa-NjT2vhbLIo3q_s9g4sd1UuwmZy0xW-yvBdMSdj9mFV7yZwO2o8PV8sDhLfDOqnaZFk8GW7uvBYdZ8ocAW5WRoZ-IUwFgWoLxAAaS7MzP_kH3NgeJINMKlDevHWjgdX7Jq1UB3SCqUNuAphgxZo8qd08_qx2RSJiBuB_cHR0IyPRzlUzIwuCfEuj00dSK4agS7E2AZeVobfFNRnKfKhoYAg0u20mIZOpXukiUzI?authuser=0&fife=s16383"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.7079602,
-                    35.6916607,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "新宿 ダイビル",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopcxJh8l3gw1TKOFhCFQdz1zxnxcdStVcHH8Trv6hKhe4k5CdQTuR6FGcQ6RrAkDE_8YrwJH2FnFtSSkR9nYrXfWZ52D-Ze8REQul0U2iI2rw1P0aFpElPFC8NTnC52hVJYsifUshTpbXbdg--q_yGb8d9U5oyDoXVeUbbiS7t2S7KfdcJZxDPWhW8M7DfDIHHHrpL0gh1H_vvhE9OHAhqDp58EBkgzXbzs7Sf6YdXp3BbETJvHYQ_XLZI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>不倶戴天の君へのワンシーン<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoo5Mu5MDbJ055fnD_7EQD895c8Slj5885xTXNjQa2PhYukO41668Mg_B5C6Fs6hL4bpG8bPYpiehsay3q-PkMyMwCELx5qKS1ZUuwMObdkM_m_74RGQ7oc0mc-dllX5gONG3GMp-gLqastNZ8QMdiJmcKPNr3obK5zN9S265JA3IU1WCgtfoKtBCiqTRaN7PkVfl4prYNzX_oTWvQJUZVkg_qvEr_So8awQn4a9NY2FgYCKb5xUy2e101E?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopcxJh8l3gw1TKOFhCFQdz1zxnxcdStVcHH8Trv6hKhe4k5CdQTuR6FGcQ6RrAkDE_8YrwJH2FnFtSSkR9nYrXfWZ52D-Ze8REQul0U2iI2rw1P0aFpElPFC8NTnC52hVJYsifUshTpbXbdg--q_yGb8d9U5oyDoXVeUbbiS7t2S7KfdcJZxDPWhW8M7DfDIHHHrpL0gh1H_vvhE9OHAhqDp58EBkgzXbzs7Sf6YdXp3BbETJvHYQ_XLZI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoo5Mu5MDbJ055fnD_7EQD895c8Slj5885xTXNjQa2PhYukO41668Mg_B5C6Fs6hL4bpG8bPYpiehsay3q-PkMyMwCELx5qKS1ZUuwMObdkM_m_74RGQ7oc0mc-dllX5gONG3GMp-gLqastNZ8QMdiJmcKPNr3obK5zN9S265JA3IU1WCgtfoKtBCiqTRaN7PkVfl4prYNzX_oTWvQJUZVkg_qvEr_So8awQn4a9NY2FgYCKb5xUy2e101E?authuser=0&fife=s16383"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.7071399,
-                    35.6961295,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "紀伊國屋書店 新宿本店前交差点",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoos2MR6EAns_MVexpPj7Tlbj65lvpHIdzTVhWJQnFWXgfTOvaPnJcTfA1RPD3r4wjMIDFvtGLL5NC9vYedZjRF4XeqCO2Gyq19vzFOMBuLiGj1O1j-e7s6JkpGx8xYXAjqIXDORoGeBNr7YacLmN_8o7v_S0V3z5MFRf9Ta7wFtI9RuH8SvWwrML4WKOMc_FS5wUn6pT9JHFGLcOLpNX4biuMVPeyXCO3Jq_UkJscSK4uogkBj46HcPOq4?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>御宿交差点<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqt0hVi0dRz7pOGnpkgjkd6BLgMesF2kudK79dgf7nQvvCr55ClRP6rdj1rWogPE8XtQBQB7DNRE4kS1Vuhirh-2OrqVNrIRn86vmggLyFu9-G1oZ-26Sin5x7oczrbSnSD8xGeQYCy135OFzaWM1uyK4oMKDJB1cq-xcSbAjQrqhMVyXQ2H1fLgwrZD4XoCQVe6K1GoO4tnrEVXyJy4b9b3Sfby0hnbff2JIJbJNkDlb5McCNN69MA5pA?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoos2MR6EAns_MVexpPj7Tlbj65lvpHIdzTVhWJQnFWXgfTOvaPnJcTfA1RPD3r4wjMIDFvtGLL5NC9vYedZjRF4XeqCO2Gyq19vzFOMBuLiGj1O1j-e7s6JkpGx8xYXAjqIXDORoGeBNr7YacLmN_8o7v_S0V3z5MFRf9Ta7wFtI9RuH8SvWwrML4WKOMc_FS5wUn6pT9JHFGLcOLpNX4biuMVPeyXCO3Jq_UkJscSK4uogkBj46HcPOq4?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqt0hVi0dRz7pOGnpkgjkd6BLgMesF2kudK79dgf7nQvvCr55ClRP6rdj1rWogPE8XtQBQB7DNRE4kS1Vuhirh-2OrqVNrIRn86vmggLyFu9-G1oZ-26Sin5x7oczrbSnSD8xGeQYCy135OFzaWM1uyK4oMKDJB1cq-xcSbAjQrqhMVyXQ2H1fLgwrZD4XoCQVe6K1GoO4tnrEVXyJy4b9b3Sfby0hnbff2JIJbJNkDlb5McCNN69MA5pA?authuser=0&fife=s16383"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.7076852,
-                    35.6918185,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "JR新宿駅東口前",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoo9gLqFFc4gPlwZUdA0OSr-a41PMVFCT58XkrcMrp_707LDzCgRZ1mkXxT5SnZHE4xTFKy8E1P63-PZmhYNZ-zr9SOOlec2aJCM7TDA-DPMgb6opbbBiJBJkHi9XuhDroxYDt_ULufgUsxeZFR--l9ZXkK4Ac-0cW3luGYfRKxnKgdB2AIoYsw97fheDsYubiS0f-Kfqj1veCajPnamnQ6FSgf1Z_CJJVZ84D-L3b_JULwJ9QxNUtSHIEc?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>御宿東口<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopwPAxPLKuSKt60wFOQpWxZk17sUdSzapVMsV7eLplZOqVA_QMG-sMUAfbpQTC3jTFhzx7_6L6C9euX45xkiKeqHuFEYbd7Fpwjz-ik2-i6p3wQ3VSpo488oO7DR4nBjjZBG4I0yvikqklS0P84ojUUGzDXkj2KL-FN18i4RbwqBCZlZw3Yi96wfdH7wQTky6u-lOvHSZl00gsei-IS0lvJ2xQjkfRKnxjVbzb8irh7ws1sUXCJu3JWcgA?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoo9gLqFFc4gPlwZUdA0OSr-a41PMVFCT58XkrcMrp_707LDzCgRZ1mkXxT5SnZHE4xTFKy8E1P63-PZmhYNZ-zr9SOOlec2aJCM7TDA-DPMgb6opbbBiJBJkHi9XuhDroxYDt_ULufgUsxeZFR--l9ZXkK4Ac-0cW3luGYfRKxnKgdB2AIoYsw97fheDsYubiS0f-Kfqj1veCajPnamnQ6FSgf1Z_CJJVZ84D-L3b_JULwJ9QxNUtSHIEc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopwPAxPLKuSKt60wFOQpWxZk17sUdSzapVMsV7eLplZOqVA_QMG-sMUAfbpQTC3jTFhzx7_6L6C9euX45xkiKeqHuFEYbd7Fpwjz-ik2-i6p3wQ3VSpo488oO7DR4nBjjZBG4I0yvikqklS0P84ojUUGzDXkj2KL-FN18i4RbwqBCZlZw3Yi96wfdH7wQTky6u-lOvHSZl00gsei-IS0lvJ2xQjkfRKnxjVbzb8irh7ws1sUXCJu3JWcgA?authuser=0&fife=s16383"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.579894842017,
-                    35.7036124118162,
-                    0
+                    139.57979112022937,
+                    35.70347658657901
                 ]
             },
             "properties": {
                 "name": "吉祥寺駅北口",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorFQd7JLZeoefrzqkI67PODPkdU-z37tx2faOhmemngBTD30GZOnAd8zQWz-7-R9FViTohEbCN2uL6crSnBXa8d7MCIdLaXxyesGBf1eRl-fUlVH4IOjpsJjb84hAYkHuNmik1OBbYIYmtkxKSjUIqaC0da0zsE9snS1D8C6IDIVx8-sh_Gg1OylItzmNCojIzFv0Ho00uUgMUm4sZXbZrzZWKqrLdQlnUU-FdmXP8t2JGVzeG_mxn6Bvg?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>南末次駅<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopbsmtYxqcfUyQztvr-7oSCR-EMIekni3j-4AgbwwhvS5mg5gkb_LVQemrzXsfmpntSumdFBdmoP9UwnSplXEXAIUiUawJDq9r7oej-Vg1LkbU7kyePg3HjZlMTeFHX-jWoeXK52uk6yKjcBoHTsFpIVv6VY82E5doTX_LDBwRRdrmPDuTMzhQnDuGnpwX-EkZykaxx0NT-hK432e-FNqFZIW1D5LtlQXNKWEJC0X7GQaMdgDiWilmbsc8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorFQd7JLZeoefrzqkI67PODPkdU-z37tx2faOhmemngBTD30GZOnAd8zQWz-7-R9FViTohEbCN2uL6crSnBXa8d7MCIdLaXxyesGBf1eRl-fUlVH4IOjpsJjb84hAYkHuNmik1OBbYIYmtkxKSjUIqaC0da0zsE9snS1D8C6IDIVx8-sh_Gg1OylItzmNCojIzFv0Ho00uUgMUm4sZXbZrzZWKqrLdQlnUU-FdmXP8t2JGVzeG_mxn6Bvg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopbsmtYxqcfUyQztvr-7oSCR-EMIekni3j-4AgbwwhvS5mg5gkb_LVQemrzXsfmpntSumdFBdmoP9UwnSplXEXAIUiUawJDq9r7oej-Vg1LkbU7kyePg3HjZlMTeFHX-jWoeXK52uk6yKjcBoHTsFpIVv6VY82E5doTX_LDBwRRdrmPDuTMzhQnDuGnpwX-EkZykaxx0NT-hK432e-FNqFZIW1D5LtlQXNKWEJC0X7GQaMdgDiWilmbsc8?authuser=0&fife=s16383"
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/minamisuetsugu-station.png",
+                "description": "has changed a lot"
             }
         },
         {
@@ -328,22 +279,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7406877,
-                    35.7127857,
-                    0
+                    140.38356942144875,
+                    35.76360604907407
                 ]
             },
             "properties": {
-                "name": "新橋駅",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor7C5fIjirwld1bqpFEWbl9NJzvx8fOH5uRAv4EIH0Gyl3V8DrZTcIa4X8E_uig_3GSqFAGyr8L-zQvzP_VNM8UzZBj0prLkXTNSYjfx9fbEUc5VD8S2CvMRX4B3rTry4RPqeRWGybnfOfBFsQQZGyugMcf1NwSdz60lr08nZp-iAgM8kj_NhZTCZDk1pCGTRuahuhhkeAdMvXfwej9ml64EqN3_oUXmQQ9vjtBHtJaXh46mQ3SY2JBVtg?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム<br>cc クリスマスで有海で待っている雪菜に対し、遅れそうになるシーンなどの背景画。<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor6p9yYcRD78AdQBvKkJG1E5ZIi_Qk-71MMLVGTWRH1yGn6FnTez1mHD--E0sEx03maYcF-jm9n-OFR9GCJ-2AF63OaVAkUhDq1aKk14oOMDDKPyH-K-KyyTef-3hv8q5SwI6iAO4keRgzr_u3uSnWHpS0W6C-iyDlUqUw0ncDvaOn_WhUZqAvtl2ehSdqnR4OWWZBSwdIszA8GeYwSw3zibF0I-a48RG8Khq3ELafJQtL5nArypI8NdZg?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor7C5fIjirwld1bqpFEWbl9NJzvx8fOH5uRAv4EIH0Gyl3V8DrZTcIa4X8E_uig_3GSqFAGyr8L-zQvzP_VNM8UzZBj0prLkXTNSYjfx9fbEUc5VD8S2CvMRX4B3rTry4RPqeRWGybnfOfBFsQQZGyugMcf1NwSdz60lr08nZp-iAgM8kj_NhZTCZDk1pCGTRuahuhhkeAdMvXfwej9ml64EqN3_oUXmQQ9vjtBHtJaXh46mQ3SY2JBVtg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBor6p9yYcRD78AdQBvKkJG1E5ZIi_Qk-71MMLVGTWRH1yGn6FnTez1mHD--E0sEx03maYcF-jm9n-OFR9GCJ-2AF63OaVAkUhDq1aKk14oOMDDKPyH-K-KyyTef-3hv8q5SwI6iAO4keRgzr_u3uSnWHpS0W6C-iyDlUqUw0ncDvaOn_WhUZqAvtl2ehSdqnR4OWWZBSwdIszA8GeYwSw3zibF0I-a48RG8Khq3ELafJQtL5nArypI8NdZg?authuser=0&fife=s16383"
+                "name": "成田空港第1ターミナル展望デッキ"
+
             }
         },
         {
@@ -351,45 +293,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141.056144,
-                    36.6274784,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "成田空港第1ターミナル展望デッキ",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqXHUSEtAScVmeGYGORocgWPNFlnMPcD_w3q-ciGX98CPp44jXUFER5OspIZdOaLA7wcmgL1nqjZkBPBu-eplAV2NGUu6xc8RGMk6JLr0kySF4hJlGzW-QapTiId5VwB6q3QZanyF7UlXVE0xSNu6SuE_RqY8NX9xSFQjo6LhOBkV3YFkpELttie6emF3HtlCmFZQF3u29A37ipx4eXxTIG2mzk3WPfPaiYAAaFZfiIjGkw1K1zg7_hAVU?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>屋外展望デッキにて、かずさが乗った飛行機を雪菜と春希が見送った場所。<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooAORDkQPJvfLJZ2-bHcPnnbgJd48iyYt3WIc1WlXR6M-rd9Pg4DafpUPwkXzpRnbTSgBcic-Sp7l-wAuBBj39wi3jVGaLLfZ2R5HDE4UW4d9r2yxb2pxPp7aGQ9f3JRACUt49sTnQe1Z6i8x9TiU8fker6wp8HDcGQYW0kisrcPL0KsGzBns-LK3VjR4MNERWjmMPIJM210jB4m8fZjzEvJLbNs7g8IThbhvkHxCwX1eAQxjtayS7tlqY?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorW3-rragxXMPNtTSucUXRRzHqXAs_4CuKdv67C3dx9GFtuXalgeMoDFKNZHGiOTzaSiHbtjjfCfd4pjH-idfIDPp9-JNwKwT_HOhhyUFLNHKqDDGQIPJnlDormTh7VPM9wA0dWgCfRU-cDGo3xKONVnURvXxeodI7TtT6ZYnW943djuIDbN0X0eAxJZb-bM_vYmMfXzOFMqbdHRwcLh_krLQIvapWtaCQebLYPcilhkGTntDEtGAuaz88?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorFTiEvNPkuVH5QJ_zE9d3tEAxb-KgSQyYqqDVhqOd9zyex4v8nEuEJ9mCpz9LwsPS-0UCkru8RcUl1vn9r78h8fwwqXFvOXT3Hjq82Pf01a_iq5BXURd1lo9ADCREu7LfWH9G1JOTTsehT4W12HZ-flhCdzI1Sl_7V6zLHIw8bEvvuksFa0cTe4mtLPv_wieEYC76iLL5oRQb6Hy8awNrNgN1Bm426odCMa0KEZ5w8QLOGp_YT3gxaY4Q?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqXHUSEtAScVmeGYGORocgWPNFlnMPcD_w3q-ciGX98CPp44jXUFER5OspIZdOaLA7wcmgL1nqjZkBPBu-eplAV2NGUu6xc8RGMk6JLr0kySF4hJlGzW-QapTiId5VwB6q3QZanyF7UlXVE0xSNu6SuE_RqY8NX9xSFQjo6LhOBkV3YFkpELttie6emF3HtlCmFZQF3u29A37ipx4eXxTIG2mzk3WPfPaiYAAaFZfiIjGkw1K1zg7_hAVU?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooAORDkQPJvfLJZ2-bHcPnnbgJd48iyYt3WIc1WlXR6M-rd9Pg4DafpUPwkXzpRnbTSgBcic-Sp7l-wAuBBj39wi3jVGaLLfZ2R5HDE4UW4d9r2yxb2pxPp7aGQ9f3JRACUt49sTnQe1Z6i8x9TiU8fker6wp8HDcGQYW0kisrcPL0KsGzBns-LK3VjR4MNERWjmMPIJM210jB4m8fZjzEvJLbNs7g8IThbhvkHxCwX1eAQxjtayS7tlqY?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorW3-rragxXMPNtTSucUXRRzHqXAs_4CuKdv67C3dx9GFtuXalgeMoDFKNZHGiOTzaSiHbtjjfCfd4pjH-idfIDPp9-JNwKwT_HOhhyUFLNHKqDDGQIPJnlDormTh7VPM9wA0dWgCfRU-cDGo3xKONVnURvXxeodI7TtT6ZYnW943djuIDbN0X0eAxJZb-bM_vYmMfXzOFMqbdHRwcLh_krLQIvapWtaCQebLYPcilhkGTntDEtGAuaz88?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorFTiEvNPkuVH5QJ_zE9d3tEAxb-KgSQyYqqDVhqOd9zyex4v8nEuEJ9mCpz9LwsPS-0UCkru8RcUl1vn9r78h8fwwqXFvOXT3Hjq82Pf01a_iq5BXURd1lo9ADCREu7LfWH9G1JOTTsehT4W12HZ-flhCdzI1Sl_7V6zLHIw8bEvvuksFa0cTe4mtLPv_wieEYC76iLL5oRQb6Hy8awNrNgN1Bm426odCMa0KEZ5w8QLOGp_YT3gxaY4Q?authuser=0&fife=s16383"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140.3886203,
-                    35.7723802,
-                    0
+                    140.38869347737176,
+                    35.77242848745243
                 ]
             },
             "properties": {
                 "name": "成田空港 第2ターミナル",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoovBEtA4c5jtI-CkKZvt2wCZKeGYUNYE7qSJfeDNmHoBwR9Eo097F_W2-dyDaDRmj9O63xu-kYAM7vc0yehq3MrpCXzHAT8R39NVa43YgMsIpVJAnTm-ykAoDqAHl40E47qJt08s6FkRAhBMiiM8YjTvq-TRgSgJm2OhaAreUh-J2Em56-db4Yt_3dvlgxKbWBCow0uWBnjLbt9C4WTaDm9q2Ezx4LUnK4BDISkHtJkHEisFDzmm6czqyk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>icラスト<br>雪菜を目の前に、春希とかずさがキスしてしまった場所。<br>また、ゲームにてccで麻理さんが飛行機に乗る前、codaで日本から発つときなどの背景画。<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorSQWpUJ_cPHaOPyHCbjX-zawZpKLPSRdvJhVk2Q1bRc3n5pC-Q6_9Jln1lxIi7bMLWPylsy0q1WjnowpYhe41kpCYW3w9v7SYpgbCYw9J1MLv2O8UsTkzYHK8nvttAjelIJElWGE_QWbm0yuhfi8h9f-4YeYn5f-iortXsAE5AzjQnYULQ1DiPZ-rw7R7aWdgsTWFr8r4cbyGDXwU-yvxMf_nm8I0CR2Qs8ZOUUBMzdAuoRpIzuOMUU6c?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooMLX3TKifrO7gzO6ppUYF-2O0bDUohiTvYMQwZX97vagJnoyRIU5IDLU2ZNdHUQKmS-1f6nnSPVq_RZpjUgBSVBkbYRyqQBYAl1JvcUHrd-c5EtFxrleG9DMkAHyzqZ0HBQLMC-nK3dQbzyzkywD32i8ZLbtL2xq7YvAY0Ltea_P-vL0AZjegIQDGDvXvHA0UUvgxA53tgG6KDIWkyXgraSYdoXKSmhhc5L6CzhtlFHvj_MY4pnJISYuI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoozqOOvSn7XW2JaB-3hes0B4gNikuCTL5H4_K0vhwy4HK5bR3iXmt0PTwrjF4i9ETAfpTdo0UZjVOtcdZXKUKhG750XhqbxBq0WQgAAxwS0HKkWiDDJOi-rB8VzkK5Mys2Lek6zZ60KL0kh9Riwu4Kzft4ATBPi3MQdamcNofCHNgVvg7XDQXHc-dV8Q3cKeDH1A7hZZ7kPpldiZD07VSE2b-k0gvJkqqLI_47oegAlTn93u4i-cO7MCCQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoocW4UOzKHgwrn4uqylKysikKe9I--H0zpO3cxYnENQqM42TNTZzTJXwGfY6kGduVV6Pk22QMK_zBpH3OU9tueag_44nDAc6D4d5iQnBz0FWmAVADPyOvK3f5iSy5SHZrkkyWH1lnXNFnb6Q9xZuf9X-1wADDahQsGsVETbUQdW4dyLyK__7yCQG-75inDN3f3AWHNtwVrXLWYBTHfN4rzQ1oibIKnY_sslJ1tKWRI2xjUZzjgFH-JG5Dk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoozq8VYPcv8Jh5UjUZbw_FKi8HJTMR4GsGEPufaeFSsJUOoxxd-BjfCL2z59HXRDRdlpjaJKSjf4XB6P3xtBjxsgRyw5oim5boF_W98YS_dbxMsK1wRg_dZuTlUdE6sU3Aoy1W8q6EjxPG-MZXNMolQCk6oZiGNYGML4MkQm8CXRo9VfyrHbZMm2Zz6O-HwMqPlWAKucbs75NLHNfyoGOgQ-LoUmQp63JH8HphM1IIygtsVAzblwOLjn-M?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoovBEtA4c5jtI-CkKZvt2wCZKeGYUNYE7qSJfeDNmHoBwR9Eo097F_W2-dyDaDRmj9O63xu-kYAM7vc0yehq3MrpCXzHAT8R39NVa43YgMsIpVJAnTm-ykAoDqAHl40E47qJt08s6FkRAhBMiiM8YjTvq-TRgSgJm2OhaAreUh-J2Em56-db4Yt_3dvlgxKbWBCow0uWBnjLbt9C4WTaDm9q2Ezx4LUnK4BDISkHtJkHEisFDzmm6czqyk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorSQWpUJ_cPHaOPyHCbjX-zawZpKLPSRdvJhVk2Q1bRc3n5pC-Q6_9Jln1lxIi7bMLWPylsy0q1WjnowpYhe41kpCYW3w9v7SYpgbCYw9J1MLv2O8UsTkzYHK8nvttAjelIJElWGE_QWbm0yuhfi8h9f-4YeYn5f-iortXsAE5AzjQnYULQ1DiPZ-rw7R7aWdgsTWFr8r4cbyGDXwU-yvxMf_nm8I0CR2Qs8ZOUUBMzdAuoRpIzuOMUU6c?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooMLX3TKifrO7gzO6ppUYF-2O0bDUohiTvYMQwZX97vagJnoyRIU5IDLU2ZNdHUQKmS-1f6nnSPVq_RZpjUgBSVBkbYRyqQBYAl1JvcUHrd-c5EtFxrleG9DMkAHyzqZ0HBQLMC-nK3dQbzyzkywD32i8ZLbtL2xq7YvAY0Ltea_P-vL0AZjegIQDGDvXvHA0UUvgxA53tgG6KDIWkyXgraSYdoXKSmhhc5L6CzhtlFHvj_MY4pnJISYuI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoozqOOvSn7XW2JaB-3hes0B4gNikuCTL5H4_K0vhwy4HK5bR3iXmt0PTwrjF4i9ETAfpTdo0UZjVOtcdZXKUKhG750XhqbxBq0WQgAAxwS0HKkWiDDJOi-rB8VzkK5Mys2Lek6zZ60KL0kh9Riwu4Kzft4ATBPi3MQdamcNofCHNgVvg7XDQXHc-dV8Q3cKeDH1A7hZZ7kPpldiZD07VSE2b-k0gvJkqqLI_47oegAlTn93u4i-cO7MCCQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoocW4UOzKHgwrn4uqylKysikKe9I--H0zpO3cxYnENQqM42TNTZzTJXwGfY6kGduVV6Pk22QMK_zBpH3OU9tueag_44nDAc6D4d5iQnBz0FWmAVADPyOvK3f5iSy5SHZrkkyWH1lnXNFnb6Q9xZuf9X-1wADDahQsGsVETbUQdW4dyLyK__7yCQG-75inDN3f3AWHNtwVrXLWYBTHfN4rzQ1oibIKnY_sslJ1tKWRI2xjUZzjgFH-JG5Dk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoozq8VYPcv8Jh5UjUZbw_FKi8HJTMR4GsGEPufaeFSsJUOoxxd-BjfCL2z59HXRDRdlpjaJKSjf4XB6P3xtBjxsgRyw5oim5boF_W98YS_dbxMsK1wRg_dZuTlUdE6sU3Aoy1W8q6EjxPG-MZXNMolQCk6oZiGNYGML4MkQm8CXRo9VfyrHbZMm2Zz6O-HwMqPlWAKucbs75NLHNfyoGOgQ-LoUmQp63JH8HphM1IIygtsVAzblwOLjn-M?authuser=0&fife=s16383"
+                "description": "TODO: exact location"
             }
         },
         {
@@ -397,22 +307,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3873769,
-                    35.7730051,
-                    0
+                    140.3871855501475,
+                    35.77311932905596
                 ]
             },
             "properties": {
-                "name": "空港第2ビル駅",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqVN1c6ijCAIpbivvD03aJ02kFN-296Pklr5boyhG03302drbtdVy5AI7dIi3rHNBHNNyIU3HfNp8M9IsOTH2J-i5u9M9Z8jrmbs-3D02sSe2f2h4sulZVUScmcVeF3HaGJ6PXq3-fwrAdGRBE2vEBInhoD0T1yxKlbvDsirTMzoRORXgfdOFk_Wh9JqbT4EG8iDw6Y0mxLK6IovRjlzi8q8pfmdWcKhD7uVYndiChxfdv5PTpDy23jaLc?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>成田空港第2ターミナル駅JRホーム<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqcwLxb-aWylYHpRQbMz4-XjhB55kudZK-b-eBw71VRF-BjLjKfPtPIMqHt2sx0uPhJrGElX5-scJY2SnST4Z5zQtsjvMtd7OrmzfOowUkw8WwcAOaDvnLnQvYZ1Cm65OznwDqpapr-jAKWYZAL-Kr7ldUp-Oday5sIq_gEvRfw854t6cXl1pUFV3RcG3s1yUx0gy9ohTVccFhVh_pkqcJ0DqeUDOT1HGrRgoGeCmfkJqfAQMAc3MHYVcU?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqVN1c6ijCAIpbivvD03aJ02kFN-296Pklr5boyhG03302drbtdVy5AI7dIi3rHNBHNNyIU3HfNp8M9IsOTH2J-i5u9M9Z8jrmbs-3D02sSe2f2h4sulZVUScmcVeF3HaGJ6PXq3-fwrAdGRBE2vEBInhoD0T1yxKlbvDsirTMzoRORXgfdOFk_Wh9JqbT4EG8iDw6Y0mxLK6IovRjlzi8q8pfmdWcKhD7uVYndiChxfdv5PTpDy23jaLc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqcwLxb-aWylYHpRQbMz4-XjhB55kudZK-b-eBw71VRF-BjLjKfPtPIMqHt2sx0uPhJrGElX5-scJY2SnST4Z5zQtsjvMtd7OrmzfOowUkw8WwcAOaDvnLnQvYZ1Cm65OznwDqpapr-jAKWYZAL-Kr7ldUp-Oday5sIq_gEvRfw854t6cXl1pUFV3RcG3s1yUx0gy9ohTVccFhVh_pkqcJ0DqeUDOT1HGrRgoGeCmfkJqfAQMAc3MHYVcU?authuser=0&fife=s16383"
+                "name": "空港第2ビル駅"
+                
             }
         },
         {
@@ -604,20 +505,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.3822709,
-                    35.8409812,
-                    0
+                    139.7942826636915,
+                    35.6271987074738
                 ]
             },
             "properties": {
-                "name": "有明西ふ頭公園",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "name": "有明西ふ頭公園???TODO",
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside.png",
                 "description": "coda。インテグラルホテルに入る前等の会話シーンの背景になっている。"
             }
         },
@@ -626,83 +521,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3203541,
-                    35.7040401,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "ちびっ子広場",
-                "styleUrl": "#icon-1899-0288D1-nodesc",
-                "styleHash": "48999a20",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-nodesc-normal",
-                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134.2239079,
-                    30.7312107,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "がってん寿司 新座店",
-                "styleUrl": "#icon-1899-0288D1-nodesc",
-                "styleHash": "48999a20",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-nodesc-normal",
-                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.5686338,
-                    35.8315,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "點 30",
-                "styleUrl": "#icon-1899-0288D1-nodesc",
-                "styleHash": "48999a20",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-nodesc-normal",
-                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140.078934,
-                    35.8579245,
-                    0
+                    139.9035285033838,
+                    35.73068907372514
                 ]
             },
             "properties": {
                 "name": "山桜公園",
-                "styleUrl": "#icon-1899-DB4436-nodesc",
-                "styleHash": "39590fa4",
-                "styleMapHash": {
-                    "normal": "#icon-1899-DB4436-nodesc-normal",
-                    "highlight": "#icon-1899-DB4436-nodesc-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-park.png"
             }
         },
         {
