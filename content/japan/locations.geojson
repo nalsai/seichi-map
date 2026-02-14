@@ -6,6 +6,7 @@
       "properties": {
         "name": "Tsukihime: Yokota Clinic",
         "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_67.avif",
+        "icon": "red",
         "description": "An usual old \"german-style\" building in Koshigaya. It used to be a clinic and before that a post office. https://www.youtube.com/watch?v=uskihGiO2nI https://retropost.net/koshigaya/"
       },
       "geometry": {
@@ -93,261 +94,6 @@
         "coordinates": [
           135.19174517723363,
           34.84775978538305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Inage Overpass",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Kan%20-%2011%20-%2015m47s989t.jpg",
-        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.08439188589693,
-          35.63195715477925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Takasu Community Center Chiba",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/14.jpg",
-        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.07060703976532,
-          35.62713512702018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Crystal View Observation Rest House",
-        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m36s978t.avif",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86086896852163,
-          35.63915386129988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - behind Crystal View Observation Rest House",
-        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2017m52s488t.avif",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.85959948458853,
-          35.64097020791387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park Dome",
-        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m31s681t.avif",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86235933931994,
-          35.640362391059135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel",
-        "image": "https://en.nalsai.de/blog/seichi/oregairu/83.avif",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.858069216516,
-          35.64254797429428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel (close-up)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/93.png",
-        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.8574197852503,
-          35.64403794056119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park Station",
-        "image": "https://en.nalsai.de/blog/seichi/oregairu/81.avif",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86116041224824,
-          35.6440769278199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 1",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m13s511t.jpg",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86181714771593,
-          35.64015331821779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 2",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m22s687t.jpg",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.8619417227825,
-          35.64023623810969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 3",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2010m02s936t.jpg",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86199818893687,
-          35.64013618278943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 4",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2014m29s452t.jpg",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86213889276323,
-          35.64012414543344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Oregairu: Kasai Rinkai Park - Trackless Train",
-        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m26s717t.avif",
-        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.86051463131534,
-          35.64278079245109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fruits Basket: Gyokusendo Book Store",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160856.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6618957521618,
-          35.59813813381133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fruits Basket: Road East of Gyokusendo Book Store",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160525.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.66187143515876,
-          35.59818736360064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fruits Basket: Gyokusendo Book Store 2",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160913.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.66177516915783,
-          35.598156496821545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fruits Basket: Akiba Black Pine",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211153649.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.65923799276192,
-          35.59564111956207
         ]
       }
     },
@@ -705,7 +451,7 @@
         "name": "Cafe Stella: Nagoya Station",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215359.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
@@ -721,7 +467,7 @@
         "name": "Cafe Stella: Hijiechō Street",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215409.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
@@ -737,7 +483,7 @@
         "name": "Cafe Stella: Ōtsu Street",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215418.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
@@ -753,7 +499,7 @@
         "name": "Cafe Stella: Nadya Park",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215505.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
@@ -769,7 +515,7 @@
         "name": "Cafe Stella: Wakamiya Hachiman Shrine",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215429.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
@@ -785,7 +531,7 @@
         "name": "Cafe Stella: Osaka University Toyonaka Campus",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215439.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
@@ -801,28 +547,13 @@
         "name": "Cafe Stella: Universal City",
         "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215454.jpg",
         "link": "https://rinnow.hatenablog.com/entry/stella",
-        "icon": "cafestella"
+        "icon": "black"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.437127635988,
           34.66811311474616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fate: Japan Christian Junior College",
-        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-jcjc.avif",
-        "description": "The college was demolished in 2009 and the site is now filled with rows of detached houses."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.15077963342276,
-          35.65722782701316
         ]
       }
     },
@@ -844,21 +575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Amairo*Islenauts: Kawaguchiko Music Forest Museum",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/FPVdN4LaUAUpCW8.jpg",
-        "link": "https://x.com/yamabito0/status/1510215750484893697"
-      },
-      "geometry": {
-        "coordinates": [
-          138.76848544452366,
-          35.52220899468692
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fate: Yugyō-ji",
         "image": "https://en.nalsai.de/blog/seichi/fate/yugyoji.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#yugyō-ji-fujisawa-kanagawa",
@@ -875,23 +591,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Eihei-ji",
-        "image": "https://en.nalsai.de/blog/seichi/fate/eiheiji.avif"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.3568082195673,
-          36.05565634688583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fate: Somon Gate of Engaku-ji",
+        "name": "Fate: Somon Gate of Engakuji",
         "image": "https://en.nalsai.de/blog/seichi/fate/engakuji.avif",
-        "link": "https://en.nalsai.de/blog/seichi/fate#engaku-ji-kamakura-kanagawa",
+        "link": "https://en.nalsai.de/blog/seichi/fate#engakuji",
         "description": "Looks similar but the stairs are different."
       },
       "geometry": {
@@ -969,92 +671,10 @@
       },
       "properties": {
         "name": "LLJ: 河鍋音楽祭",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-takamatsu.png",
-        "description": "TODO: image 2"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1936095,
-          34.7002908
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-takamatsu.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-takamatsu-2.png"
         ]
-      },
-      "properties": {
-        "name": "LLJ: オムライス店？",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-omrice.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1886927,
-          34.6909109
-        ]
-      },
-      "properties": {
-        "name": "LLJ: イタリア洋菓子屋？",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1918752,
-          34.6921956
-        ]
-      },
-      "properties": {
-        "name": "LLJ: スフォリアテッラ",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1981875,
-          34.6960625
-        ]
-      },
-      "properties": {
-        "name": "LLJ: モスバーガー",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1934835,
-          34.6938281
-        ]
-      },
-      "properties": {
-        "name": "LLJ: スターバックス",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1870241,
-          34.6960039
-        ]
-      },
-      "properties": {
-        "name": "LLJ: バーチ ディ ダーマ",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-TODO.png"
       }
     },
     {
@@ -1068,8 +688,451 @@
       },
       "properties": {
         "name": "Subahibi: Rooftop Background Buildings (Shibuya)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/subahibi/roof.jpg",
-        "description": "TODO: real image: shibuya-rl.png"
+        "icon": "red",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/subahibi/roof.jpg",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/subahibi/shibuya-rl.png"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70107001346756,
+          35.692141032100594
+        ]
+      },
+      "properties": {
+        "name": "WA2: JR新宿駅東口前",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-station.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70113898739626,
+          35.692286007693816
+        ]
+      },
+      "properties": {
+        "name": "WA2: 新宿アルタビジョン",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-screen.jpg",
+        "description": "doesn't exist anymore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7024236052739,
+          35.691886857852126
+        ]
+      },
+      "properties": {
+        "name": "WA2: 紀伊國屋書店 新宿本店前交差点",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-books.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75958586022523,
+          35.66550973909646
+        ]
+      },
+      "properties": {
+        "name": "WA2: 新橋駅",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-station.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70441323613488,
+          35.69114475939917
+        ]
+      },
+      "properties": {
+        "name": "WA2: 伊勢丹新宿店本館 入口",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/office.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69648893988068,
+          35.690218520855105
+        ]
+      },
+      "properties": {
+        "name": "WA2: WA2: 新宿郵便局前",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street-2.png"
+        ],
+        "description": "maybe further south"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6897785921876,
+          35.68691861468627
+        ]
+      },
+      "properties": {
+        "name": "WA2: 新宿中央公園ちびっ子広場",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-park.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70050213924557,
+          35.69345746320011
+        ]
+      },
+      "properties": {
+        "name": "WA2: 公衆電話",
+        "icon": "purple",
+        "description": "not pictured in game; McDonald's in the background"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57979112022937,
+          35.70347658657901
+        ]
+      },
+      "properties": {
+        "name": "WA2: 末次町駅",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/minamisuetsugu-station.png",
+        "description": "has changed a lot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5196273527617,
+          35.90319578540487
+        ]
+      },
+      "properties": {
+        "name": "WA2: 南古谷駅",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/suetsugucho-station.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/iwazucho-station-platform.png"
+        ],
+        "description": "mirrored and replaced by a new station building in 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9079534,
+          35.7294067
+        ]
+      },
+      "properties": {
+        "name": "WA2: 岩津町駅",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/iwazucho-station.png",
+        "description": "pretty different, mirrored"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90922179465358,
+          35.72922287527118
+        ]
+      },
+      "properties": {
+        "name": "WA2: コートダジュール 市川駅前店（閉店）",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/karaoke-building.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9045179,
+          35.7289084
+        ]
+      },
+      "properties": {
+        "name": "WA2: 市川南第一公園",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/park.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-park-2.png"
+        ],
+        "description": "first picture is from the VN, second from the anime"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38356942144875,
+          35.76360604907407
+        ]
+      },
+      "properties": {
+        "name": "WA2: 成田空港第1ターミナル展望デッキ／成田空港第２ターミナル見学デッキ南",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-observation-deck.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-observation-deck-2.png"
+        ],
+        "description": "Terminal 1 deck is being renovated as of 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38869347737176,
+          35.77242848745243
+        ]
+      },
+      "properties": {
+        "name": "WA2: 成田空港 第2ターミナル",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-2.png"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56795,
+          35.81379,
+          0
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学 新座キャンパス 1",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5663828,
+          35.8131393,
+          0
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学2",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-2.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5658428288228,
+          35.81425030525786
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学3 Building 4",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-3.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-4.avif"
+        ],
+        "description": "approximate location"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70389378170822,
+          35.730944708564905
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学本館前",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/university.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90221176584086,
+          35.738138954500535
+        ]
+      },
+      "properties": {
+        "name": "WA2: 江戸川河川敷東岸",
+        "icon": "purple",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-riverside.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-riverside-2.png"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90135008677893,
+          35.74212861162986
+        ]
+      },
+      "properties": {
+        "name": "WA2: 江戸川沿いの歩道",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/riverside.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6948650740748,
+          35.69014727550773
+        ]
+      },
+      "properties": {
+        "name": "WA2: 京王プラザホテル",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/integral-hotel.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79290799928813,
+          35.628839801421904
+        ]
+      },
+      "properties": {
+        "name": "WA2: 有明西ふ頭公園",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-2.png"
+        ],
+        "description": "mirrored"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90351586765834,
+          35.73071298833504
+        ]
+      },
+      "properties": {
+        "name": "WA2: 山桜公園",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-park.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3874247,
+          35.7730279
+        ]
+      },
+      "properties": {
+        "name": "WA2: JR空港第2ビル駅",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-station.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56493913587022,
+          35.728824554796276
+        ]
+      },
+      "properties": {
+        "name": "WA2: 東伏見駅（北口）",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-outside-station-1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56429881376005,
+          35.72836014185271
+        ]
+      },
+      "properties": {
+        "name": "WA2: 東伏見駅（南口）",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-outside-station-2.png"
       }
     }
   ]

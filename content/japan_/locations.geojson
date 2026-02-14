@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Kawaguchiko Music Forest Museum",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/FPVdN4LaUAUpCW8.jpg",
+        "link": "https://x.com/yamabito0/status/1510215750484893697"
+      },
+      "geometry": {
+        "coordinates": [
+          138.76848544452366,
+          35.52220899468692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Gyokusendo Book Store",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160856.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6618957521618,
+          35.59813813381133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Road East of Gyokusendo Book Store",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160525.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66187143515876,
+          35.59818736360064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Gyokusendo Book Store 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160913.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66177516915783,
+          35.598156496821545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Akiba Black Pine",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211153649.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65923799276192,
+          35.59564111956207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Eihei-ji",
+        "image": "https://en.nalsai.de/blog/seichi/fate/eiheiji.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#eiheiji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.3568082195673,
+          36.05565634688583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Japan Christian Junior College",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-jcjc.avif",
+        "description": "The college was demolished in 2009 and the site is now filled with rows of detached houses."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.15077963342276,
+          35.65722782701316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Inage Overpass",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Kan%20-%2011%20-%2015m47s989t.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08439188589693,
+          35.63195715477925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Takasu Community Center Chiba",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/14.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07060703976532,
+          35.62713512702018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Crystal View Observation Rest House",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m36s978t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86086896852163,
+          35.63915386129988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - behind Crystal View Observation Rest House",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2017m52s488t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.85959948458853,
+          35.64097020791387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park Dome",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m31s681t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86235933931994,
+          35.640362391059135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/83.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.858069216516,
+          35.64254797429428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel (close-up)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/93.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8574197852503,
+          35.64403794056119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park Station",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/81.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86116041224824,
+          35.6440769278199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 1",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m13s511t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86181714771593,
+          35.64015331821779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 2",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m22s687t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8619417227825,
+          35.64023623810969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 3",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2010m02s936t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86199818893687,
+          35.64013618278943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 4",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2014m29s452t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86213889276323,
+          35.64012414543344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Trackless Train",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m26s717t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86051463131534,
+          35.64278079245109
+        ]
+      }
+    }
+  ]
+}

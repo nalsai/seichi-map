@@ -19,36 +19,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tsukihime: St. Peter's Basilica",
-        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_65.avif",
-        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.454161017541624,
-          41.90208380481941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tsukihime: Fontana di Trevi",
-        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_09.avif",
-        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-2-the-trevi-fountain-in-rome"
-      },
-      "geometry": {
-        "coordinates": [
-          12.483353057571593,
-          41.900864482907025
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Tsukihime: Château de Remaisnil",
         "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_48a.avif",
         "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations",
@@ -96,89 +66,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ef: Peterskirche - stairs",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg19.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#church"
-      },
-      "geometry": {
-        "coordinates": [
-          8.705528139218975,
-          49.40951657952821
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Peterskirche - stairs (close up)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg14.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#church"
-      },
-      "geometry": {
-        "coordinates": [
-          8.705622723370535,
-          49.40945663793232
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Peterskirche - side",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-2.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#church"
-      },
-      "geometry": {
-        "coordinates": [
-          8.705499490133231,
-          49.40942152410944
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Peterskirche - corner",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg24.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#church"
-      },
-      "geometry": {
-        "coordinates": [
-          8.705697975372232,
-          49.40954132539154
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ef: Peterskirche",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.avif",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-2.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg19.avif"
+        ],
         "link": "https://en.nalsai.de/blog/seichi/ef/#church"
       },
       "geometry": {
         "coordinates": [
           8.705491696000587,
           49.409572279388996
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Providenzkirche - inside (2)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-2.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
-      },
-      "geometry": {
-        "coordinates": [
-          8.702016674247208,
-          49.41086852972298
         ],
         "type": "Point"
       }
@@ -194,21 +93,6 @@
         "coordinates": [
           8.695538485041157,
           49.408906328414986
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Calzedonia",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-calzedonia.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße"
-      },
-      "geometry": {
-        "coordinates": [
-          8.694006445243128,
-          49.40979854884351
         ],
         "type": "Point"
       }
@@ -239,8 +123,10 @@
       },
       "properties": {
         "name": "LLJ: ケルントナー通り",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-wien-1.png",
-        "description": "TODO: image 2"
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-wien-1.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-wien-2.png"
+        ]
       }
     }
   ]
