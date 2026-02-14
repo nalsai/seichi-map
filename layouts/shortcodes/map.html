@@ -102,7 +102,7 @@
               return marker;
             },
             onEachFeature: function(feature, layer) {
-              // Create popup with image, description, and toggle button
+              // Create popup with image(s), description, and toggle button
               const popupContent = document.createElement('div');
               popupContent.className = 'text-center';
               popupContent.style.width = '200px';
@@ -113,21 +113,34 @@
               nameElement.textContent = feature.properties.name;
               popupContent.appendChild(nameElement);
               
-              // Image with click event for fullscreen
-              const imgContainer = document.createElement('div');
-              imgContainer.style.cursor = 'pointer';
-              imgContainer.title = 'Click to view full-size image';
+              // Handle multiple images or single image
+              const images = getImagesArray(feature.properties);
               
-              const img = document.createElement('img');
-              img.src = feature.properties.image;
-              img.alt = feature.properties.name;
-              img.className = 'img-fluid mb-2';
-              img.style.maxHeight = '200px';
-              img.onclick = function() {
-                openFullScreenImage(feature.properties.image, feature.properties.name);
-              };
-              imgContainer.appendChild(img);
-              popupContent.appendChild(imgContainer);
+              if (images.length > 0) {
+                // Create container for all images
+                const imagesContainer = document.createElement('div');
+                imagesContainer.className = 'mb-2';
+                
+                images.forEach((imageSrc, index) => {
+                  const imgContainer = document.createElement('div');
+                  imgContainer.style.cursor = 'pointer';
+                  imgContainer.title = 'Click to view full-size image';
+                  imgContainer.className = 'mb-2';
+                  
+                  const img = document.createElement('img');
+                  img.src = imageSrc;
+                  img.alt = `${feature.properties.name} - Image ${index + 1}`;
+                  img.className = 'img-fluid';
+                  img.style.maxHeight = '200px';
+                  img.onclick = function() {
+                    openFullScreenImage(imageSrc, feature.properties.name);
+                  };
+                  imgContainer.appendChild(img);
+                  imagesContainer.appendChild(imgContainer);
+                });
+                
+                popupContent.appendChild(imagesContainer);
+              }
               
               // Description
               if (feature.properties.description) {
@@ -178,6 +191,19 @@
           console.error('Error loading GeoJSON:', error);
           document.getElementById('error').innerHTML = '<div class="alert alert-danger mb-0 mt-3">Error loading locations data.</div>';
         });
+    }
+    
+    // Function to get images as an array (supports both single image and images array)
+    function getImagesArray(properties) {
+      // Check if images array exists
+      if (properties.images && Array.isArray(properties.images)) {
+        return properties.images;
+      }
+      // Check if single image property exists
+      if (properties.image) {
+        return [properties.image];
+      }
+      return [];
     }
     
     // Function to open image in full screen modal
