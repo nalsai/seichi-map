@@ -13,7 +13,7 @@
             "properties": {
                 "name": "WA2: JR新宿駅東口前",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-station.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-station.avif"
             }
         },
         {
@@ -28,7 +28,8 @@
             "properties": {
                 "name": "新宿アルタビジョン",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-screen.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-screen.jpg",
+                "description": "doesn't exist anymore"
             }
         },
         {
@@ -43,7 +44,7 @@
             "properties": {
                 "name": "紀伊國屋書店 新宿本店前交差点",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-books.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-books.avif"
             }
         },
         {
@@ -58,7 +59,7 @@
             "properties": {
                 "name": "新橋駅",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-station.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-station.avif"
             }
         },
         {
@@ -91,7 +92,8 @@
                 "images": [
                     "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street.png",
                     "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street-2.png"
-                ]
+                ],
+                "description": "maybe further south"
             }
         },
         {
@@ -106,7 +108,7 @@
             "properties": {
                 "name": "新宿中央公園ちびっ子広場",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/park.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-park.avif"
             }
         },
         {
@@ -171,7 +173,6 @@
             "properties": {
                 "name": "岩津町駅",
                 "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/iwazucho-station.png"
-                
             }
         },
         {
@@ -199,7 +200,12 @@
             },
             "properties": {
                 "name": "市川南第一公園",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-park-2.png"
+                "icon": "red",
+                "images":   [
+                    "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/park.png",
+                    "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-park-2.png"
+                ],
+                "description": "first picture is from the VN, second from the anime"
             }
         },
         {
@@ -217,7 +223,8 @@
                 "images": [
                     "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-observation-deck.png",
                     "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-observation-deck-2.png"
-                ]
+                ],
+                "description": "Terminal 1 deck is being renovated as of 2025"
             }
         },
         {
@@ -267,7 +274,7 @@
             "properties": {
                 "name": "立教大学2",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-2.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-2.avif"
             }
         },
         {
@@ -284,8 +291,9 @@
                 "icon": "red",
                 "images": [
                     "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-3.png",
-                    "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-4.png"
-                ]
+                    "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-4.avif"
+                ],
+                "description": "approximate location"
             }
         },
         {
@@ -300,7 +308,7 @@
             "properties": {
                 "name": "立教大学本館前",
                 "icon": "red",
-                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/university.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/university.avif"
             }
         },
         {
@@ -308,22 +316,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.9017841,
-                    35.7397256,
-                    0
+                    139.90221176584086,
+                    35.738138954500535
                 ]
             },
             "properties": {
                 "name": "江戸川河川敷東岸",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooHJZN7lqexTIYzrW9LYRu6QBfjyMXrRJJUxclFqjgFfSXzyDljODTxJDOFBZfLUo6rAvXSxk34hu_ltkd-Wi4FzOJNzE9kbnFpRjOx9eJfhcz8DmoVIeSfgJoFhTlyYZR7PZYza_eW-KeEcA_WgcwnkYmzf6BrVqdN8Z7oFjk2VhiLqWxiY6QqAyBRLCIdVTK0cqVSbsHwqx-pOB2JUlErKKQf1BKA0O8Kw27XygzuM0xPdJqQhdvBtMk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>アニメ<br>雪菜&春希下校シーンなど。<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopObo6xd7MlRl4IS7LXtPpR-IQoBbkgv0bELrSFzgUWM_Dov3rPuRkTprFM33-EH1KjHejMUxJUk1gaMxjmEMFteITFs5o63O-sIopFTN0auYeRgwT_mmhifPZzYwhibKBHeMh_6211-8G6axiXB1pKGZrTrEdH9ItZwDJtbB2rjw4HtZPMuAKrnMz8Zy9ekdb7jVEcBhgozoUpu762JFGV-9xzT1qU5bQMVctKrHOJWxMkavR442QapAM?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBooHJZN7lqexTIYzrW9LYRu6QBfjyMXrRJJUxclFqjgFfSXzyDljODTxJDOFBZfLUo6rAvXSxk34hu_ltkd-Wi4FzOJNzE9kbnFpRjOx9eJfhcz8DmoVIeSfgJoFhTlyYZR7PZYza_eW-KeEcA_WgcwnkYmzf6BrVqdN8Z7oFjk2VhiLqWxiY6QqAyBRLCIdVTK0cqVSbsHwqx-pOB2JUlErKKQf1BKA0O8Kw27XygzuM0xPdJqQhdvBtMk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopObo6xd7MlRl4IS7LXtPpR-IQoBbkgv0bELrSFzgUWM_Dov3rPuRkTprFM33-EH1KjHejMUxJUk1gaMxjmEMFteITFs5o63O-sIopFTN0auYeRgwT_mmhifPZzYwhibKBHeMh_6211-8G6axiXB1pKGZrTrEdH9ItZwDJtbB2rjw4HtZPMuAKrnMz8Zy9ekdb7jVEcBhgozoUpu762JFGV-9xzT1qU5bQMVctKrHOJWxMkavR442QapAM?authuser=0&fife=s16383"
+                "images": [
+                    "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-riverside.png",
+                    "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-riverside-2.png"
+                ]
             }
         },
         {
@@ -331,22 +333,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.8294383,
-                    35.7475983,
-                    0
+                    139.90135008677893,
+                    35.74212861162986
                 ]
             },
             "properties": {
                 "name": "江戸川沿いの歩道",
-                "styleUrl": "#icon-1899-0288D1",
-                "styleHash": "-21fe3a8d",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-normal",
-                    "highlight": "#icon-1899-0288D1-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-                "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqBrCR-mKjpuJBdeYdpu7j7NlEvF5R0CsXTQYAL6CExtnBS6YwqwgYwmUxMpVH2SPfWivPcJDbri-MWzUzC0IABU16OLULF3jUZmm9ULmwheXrI1-vBoOQmr6UGhKIgK5ZUv4vRIYf63nUbVAP_olLhImVYCAfJLzgze134GO8N59kDNaQKxEsy8KDXh3QuxStzE-AAY9CCvIcTjDTV9t0jISmmItDyA-sFCjoJKDULV1z3ggAdpuTdCjk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>ゲーム。CCにて色々なキャラと語り合った。<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorT8j17nzbMwS4Z5KviGtE4qj9LhOMo9i55FhOX1dKdVkkmeFDgR0F-piPHRJkoIqu40zvryjl6Y7FvKwH4yoTjnHIaJvJ5401Jkm5tb4ku3RESBt7OXVDWJMdZAd7yrGo4D-tIarenD5F2bLPoxvsBcko-MCjav9FRFsMdY5pQywbztNj5jbmJsU1h5Ugp1qJzJQh5SVikDh6FN1sQDLSMRBxWAMCOd68DDrr93QXp-Qti-Y5ajh7iZ5Q?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
-                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqBrCR-mKjpuJBdeYdpu7j7NlEvF5R0CsXTQYAL6CExtnBS6YwqwgYwmUxMpVH2SPfWivPcJDbri-MWzUzC0IABU16OLULF3jUZmm9ULmwheXrI1-vBoOQmr6UGhKIgK5ZUv4vRIYf63nUbVAP_olLhImVYCAfJLzgze134GO8N59kDNaQKxEsy8KDXh3QuxStzE-AAY9CCvIcTjDTV9t0jISmmItDyA-sFCjoJKDULV1z3ggAdpuTdCjk?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBorT8j17nzbMwS4Z5KviGtE4qj9LhOMo9i55FhOX1dKdVkkmeFDgR0F-piPHRJkoIqu40zvryjl6Y7FvKwH4yoTjnHIaJvJ5401Jkm5tb4ku3RESBt7OXVDWJMdZAd7yrGo4D-tIarenD5F2bLPoxvsBcko-MCjav9FRFsMdY5pQywbztNj5jbmJsU1h5Ugp1qJzJQh5SVikDh6FN1sQDLSMRBxWAMCOd68DDrr93QXp-Qti-Y5ajh7iZ5Q?authuser=0&fife=s16383"
+                "icon": "red",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/riverside.png"
             }
         },
         {
@@ -361,7 +355,7 @@
             "properties": {
                 "name": "京王プラザホテル",
                 "icon": "red",
-                "image": "/var/home/nalsai/Downloads/TODO/integral-hotel.png"
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/integral-hotel.png"
             }
         },
         {
@@ -410,6 +404,34 @@
                 "name": "JR空港第2ビル駅",
                 "icon": "red",
                 "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-station.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.56493913587022,
+                    35.728824554796276
+                ]
+            },
+            "properties": {
+                "name": "東伏見駅（北口）",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-outside-station-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3874247,
+                    35.7730279
+                ]
+            },
+            "properties": {
+                "name": "東伏見駅（南口）",
+                "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/anime-outside-station-2.png"
             }
         }
     ]
