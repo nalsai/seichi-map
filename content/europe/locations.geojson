@@ -4,21 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tsukihime: Arc de Triomphe",
-        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_11.avif",
-        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-1-the-arc-de-triomphe-in-paris"
-      },
-      "geometry": {
-        "coordinates": [
-          2.2962159786384517,
-          48.87249578294641
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Tsukihime: Château de Remaisnil",
         "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_48a.avif",
         "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations",
@@ -59,55 +44,6 @@
         "coordinates": [
           11.141535805170275,
           51.78922595747151
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Peterskirche",
-        "images": [
-          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.avif",
-          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-2.avif",
-          "https://en.nalsai.de/blog/seichi/ef/bg19.avif"
-        ],
-        "link": "https://en.nalsai.de/blog/seichi/ef/#church"
-      },
-      "geometry": {
-        "coordinates": [
-          8.705491696000587,
-          49.409572279388996
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Penny",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-penny.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#plöck"
-      },
-      "geometry": {
-        "coordinates": [
-          8.695538485041157,
-          49.408906328414986
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ef: Rothenburg ob der Tauber Station (3)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-3.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#station"
-      },
-      "geometry": {
-        "coordinates": [
-          10.19066423911499,
-          49.37675929619333
         ],
         "type": "Point"
       }
