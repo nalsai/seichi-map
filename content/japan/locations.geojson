@@ -7,7 +7,7 @@
         "name": "Tsukihime: Yokota Clinic",
         "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_67.avif",
         "icon": "red",
-        "description": "An usual old \"german-style\" building in Koshigaya. It used to be a clinic and before that a post office. https://www.youtube.com/watch?v=uskihGiO2nI https://retropost.net/koshigaya/"
+        "description": "An old \"german-style\" building in Koshigaya. It used to be a clinic and before that a post office. https://www.youtube.com/watch?v=uskihGiO2nI https://retropost.net/koshigaya/"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +433,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cafe Stella: Osaka University Toyonaka Campus",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215439.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-6.avif",
         "link": "https://rinnow.hatenablog.com/entry/stella",
         "icon": "cafestella"
       },
@@ -449,7 +449,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cafe Stella: Universal City",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210817/20210817215454.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-7.avif",
         "link": "https://rinnow.hatenablog.com/entry/stella",
         "icon": "cafestella"
       },
@@ -540,8 +540,8 @@
         "name": "LLJ: 河鍋音楽祭",
         "icon": "red",
         "images": [
-          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-takamatsu.png",
-          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/lalajam/llj-takamatsu-2.png"
+          "https://en.nalsai.de/blog/seichi/llj/llj-takamatsu.avif",
+          "https://en.nalsai.de/blog/seichi/llj/llj-takamatsu-2.avif"
         ]
       }
     },
@@ -551,7 +551,7 @@
       "properties": {
         "name": "Amairo*Islenauts: Kawaguchiko Music Forest Museum",
         "icon": "green",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/FPVdN4LaUAUpCW8.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/amairo/bg10.avif",
         "link": "https://x.com/yamabito0/status/1510215750484893697"
       },
       "geometry": {
@@ -567,7 +567,7 @@
       "properties": {
         "name": "Fruits Basket: Gyokusendo Book Store",
         "icon": "black",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160856.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/fruits-basket/fruitsbasket17.avif",
         "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
       },
       "geometry": {
@@ -583,7 +583,7 @@
       "properties": {
         "name": "Fruits Basket: Road East of Gyokusendo Book Store",
         "icon": "black",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160525.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/fruits-basket/fruitsbasket16.avif",
         "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
       },
       "geometry": {
@@ -599,7 +599,7 @@
       "properties": {
         "name": "Fruits Basket: Gyokusendo Book Store 2",
         "icon": "black",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160913.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/fruits-basket/fruitsbasket18.avif",
         "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
       },
       "geometry": {
@@ -615,7 +615,7 @@
       "properties": {
         "name": "Fruits Basket: Akiba Black Pine",
         "icon": "black",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211153649.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/fruits-basket/fruitsbasket15.avif",
         "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
       },
       "geometry": {
@@ -631,7 +631,7 @@
       "properties": {
         "name": "Oregairu: Inage Overpass",
         "icon": "purple",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Kan%20-%2011%20-%2015m47s989t.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Kan%20-%2011%20-%2015m47s989t.avif",
         "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
       },
       "geometry": {
@@ -647,7 +647,7 @@
       "properties": {
         "name": "Oregairu: Takasu Community Center Chiba",
         "icon": "purple",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/14.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/14.avif",
         "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
       },
       "geometry": {
